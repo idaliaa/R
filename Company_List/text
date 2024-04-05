@@ -1,0 +1,55 @@
+most_outstanding_value <- names(sort(table(data$highly_rated_for), decreasing = TRUE))[]
+print(most_outstanding_value)
+
+- table(data$highly_rated_for) generates a frequency table of unique values in the highly_rated_for column.
+- sort(..., decreasing = TRUE) sorts the table in descending order based on the frequencies.
+- names(...) extracts the names of the sorted table.
+- which.max(...) returns the index of the maximum value, which corresponds to the most frequent value.
+- [1] extracts the first (most frequent) value from the sorted table.
+
+ geom_text(aes(label = count), vjust = -0.5, color = "black", size = 3)
+ - add geom_text() to add text labels to the bars, where label = count maps the count values to the labels.
+ - vjust = -0.5 adjusts the vertical position of the labels to place them slightly above the bars.
+ - color = "black" sets the color of the labels to black.
+ - size = 3 adjusts the size of the labels.
+ 
+ EXPLANATION
+- vjust: It stands for "vertical justification" and determines the vertical position of the text relative to its reference point.
+A value of 0 positions the text at the bottom of the label bounding box.
+A value of 0.5 positions the text at the middle of the label bounding box.
+A value of 1 positions the text at the top of the label bounding box.
+Negative values position the text below the reference point, and values greater than 1 position it above.
+
+- hjust: It stands for "horizontal justification" and determines the horizontal position of the text relative to its reference point.
+A value of 0 positions the text at the left of the label bounding box.
+A value of 0.5 positions the text at the center of the label bounding box.
+A value of 1 positions the text at the right of the label bounding box.
+Negative values position the text to the left of the reference point, and values greater than 1 position it to the right.
+
+stat = "identity" ensures that these values are used as-is for plotting.
+
+
+
+
+
+
+
+# Checking if KPMG is in the company data
+kpmg <- "KPMG" %in% data$company
+print(kpmg) # FALSE => not in the list
+# How About Klynveld Peat Marwick Goerdeler ?
+akronim_kpmg <- "Klynveld Peat Marwick Goerdeler" %in% data$company
+
+# Checking EY as Ernst and Young Company name
+ey <- "Ernst & Young" %in% data$company
+print(ey) #TRUE => it is in the company
+
+klynveld_present <- grepl("Klynveld", data$company)
+# Check if any company name contains "Klynveld"
+if (any(klynveld_present)) {
+  print("There are companies with 'Klynveld' in the name.")
+} else {
+  print("There are no companies with 'Klynveld' in the name.")
+}
+
+####### KPMG India !!!
