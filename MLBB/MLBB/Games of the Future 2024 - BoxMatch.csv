@@ -1,0 +1,641 @@
+Date,Stage,Match,Team,Ban,Role Ban,Role Pick,Players,Pick,MVP,Time,Spell,Talent 3,K,D,A,Gold,Rating,Medal,Level,Win
+2/26/2024,Group Stage,1,RRQ Hoshi,Guinevere,Fighter,Mage,Octa,Novaria,0,22:09,Flicker,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,1,RRQ Hoshi,Arlott,Fighter/Assassin,Fighter,Brusko,Chou,0,22:09,Flicker,Concussive Blast,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,1,RRQ Hoshi,Mathilda,Support/Assassin,Assassin/Fighter,Banana,Benedetta,0,22:09,Petrify,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,1,RRQ Hoshi,Minotaur,Tank/Support,Marksman,Skylar,Claude,1,22:09,Sprint,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,1,RRQ Hoshi,Kaja,Support/Fighter,Fighter/Tank,Irrad,Fredrinn,0,22:09,Retribution,Concussive Blast,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,1,Team Lilgun,Martis,Fighter,Fighter,Aizn,Cici,0,22:09,Vengeance,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,1,Team Lilgun,Dyrroth,Fighter,Mage,Forbid,Vexana,0,22:09,Flicker,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,1,Team Lilgun,Ruby,Fighter/Tank,Tank/Fighter,Zxaura,Barats,0,22:09,Retribution,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,1,Team Lilgun,Nolan,Assassin,Support,Ethan,Estes,0,22:09,Flicker,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,1,Team Lilgun,Joy,Assassin,Marksman,Bebex,Karrie,0,22:09,Purify,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,2,Team Lilgun,Claude,Marksman,Fighter/Tank,Ethan,Ruby,0,18:24,Flicker,Brave Smite,2,2,10,10088,8.2,Silver,15,Lose
+2/26/2024,Group Stage,2,Team Lilgun,Karrie,Marksman,Fighter,Zxaura,Martis,0,18:24,Retribution,Killing Spree,9,3,5,12283,9.9,Golden,15,Lose
+2/26/2024,Group Stage,2,Team Lilgun,Novaria,Mage,Fighter,Aizn,Thamuz,0,18:24,Vengeance,Brave Smite,1,3,6,11045,7,Silver,15,Lose
+2/26/2024,Group Stage,2,Team Lilgun,Arlott,Fighter/Assassin,Marksman,Bebex,Ixia,0,18:24,Flicker,Quantum Charge,1,4,5,10778,5.6,Bronze,15,Lose
+2/26/2024,Group Stage,2,Team Lilgun,Nolan,Assassin,Mage,Forbid,Lylia,0,18:24,Purify,Lethal Ignition,2,2,9,11891,8.3,Golden,15,Lose
+2/26/2024,Group Stage,2,RRQ Hoshi,Mathilda,Support/Assassin,Fighter,Banana,Cici,0,18:24,Vengeance,Brave Smite,2,1,6,12451,8.6,Golden,15,Win
+2/26/2024,Group Stage,2,RRQ Hoshi,Joy,Assassin,Support/Mage,Octa,Faramis,1,18:24,Flicker,Lethal Ignition,3,2,8,10026,8.7,Golden,15,Win
+2/26/2024,Group Stage,2,RRQ Hoshi,Guinevere,Fighter,Marksman,Skylar,Beatrix,0,18:24,Flicker,Quantum Charge,3,4,5,12609,7,Golden,15,Win
+2/26/2024,Group Stage,2,RRQ Hoshi,Terizla,Fighter,Assassin,Irrad,Lancelot,0,18:24,Retribution,Quantum Charge,4,2,3,14583,7,Golden,15,Win
+2/26/2024,Group Stage,2,RRQ Hoshi,Lapu-Lapu,Fighter,Support/Fighter,Brusko,Kaja,0,18:24,Flicker,Brave Smite,2,6,8,9062,6.4,Silver,15,Win
+2/26/2024,Group Stage,1,S2G Esports,Fanny,Assassin,Fighter/Tank,Lunar,Ruby,1,16:32,Flicker,Brave Smite,4,1,11,10573,10.7,Golden,15,Win
+2/26/2024,Group Stage,1,S2G Esports,Guinevere,Fighter,Mage,BEGIN,Valentina,0,16:32,Flicker,Quantum Charge,3,4,6,8732,6.2,Silver,14,Win
+2/26/2024,Group Stage,1,S2G Esports,Joy,Assassin,Tank/Support,Qaro,Minotaur,0,16:32,Flicker,Brave Smite,1,4,8,7453,6.6,Silver,13,Win
+2/26/2024,Group Stage,1,S2G Esports,Tigreal,Tank,Fighter,Kazue,Leomord,0,16:32,Retribution,Quantum Charge,6,2,5,11261,8.7,Golden,15,Win
+2/26/2024,Group Stage,1,S2G Esports,Natan,Marksman,Marksman,SIGIBUM,Claude,0,16:32,Purify,Quantum Charge,2,1,5,12350,7.9,Golden,15,Win
+2/26/2024,Group Stage,1,Twisted Minds,Cici,Fighter,Mage,Cuffin,Aurora,0,16:32,Flicker,Lethal Ignition,0,2,9,9351,7.4,Golden,15,Lose
+2/26/2024,Group Stage,1,Twisted Minds,Diggie,Support,Marksman,Saano,Karrie,0,16:32,Flicker,Brave Smite,5,1,4,12808,9.9,Golden,15,Lose
+2/26/2024,Group Stage,1,Twisted Minds,Novaria,Mage,Fighter/Assassin,Maro,Arlott,0,16:32,Flicker,Concussive Blast,3,5,6,7775,6.7,Silver,14,Lose
+2/26/2024,Group Stage,1,Twisted Minds,Mathilda,Support/Assassin,Fighter/Assassin,Mike Sama,Paquito,0,16:32,Sprint,Quantum Charge,2,4,3,9983,5.8,Silver,15,Lose
+2/26/2024,Group Stage,1,Twisted Minds,Wanwan,Marksman,Fighter,7oda,Martis,0,16:32,Retribution,Lethal Ignition,2,4,3,7882,5.1,Bronze,15,Lose
+2/26/2024,Group Stage,2,Twisted Minds,Beatrix,Marksman,Fighter/Assassin,Maro,Arlott,0,17:13,Flicker,Concussive Blast,3,2,11,9167,8.8,Golden,15,Win
+2/26/2024,Group Stage,2,Twisted Minds,Minotaur,Tank/Support,Fighter/Tank,7oda,Fredrinn,0,17:13,Retribution,Brave Smite,4,1,8,10113,8.5,Golden,15,Win
+2/26/2024,Group Stage,2,Twisted Minds,Guinevere,Fighter,Fighter,Mike Sama,X.Borg,0,17:13,Flicker,Impure Rage,3,1,8,10325,9,Golden,15,Win
+2/26/2024,Group Stage,2,Twisted Minds,Mathilda,Support/Assassin,Mage,Cuffin,Odette,0,17:13,Flicker,Lethal Ignition,3,1,11,10307,9.6,Golden,15,Win
+2/26/2024,Group Stage,2,Twisted Minds,Wanwan,Marksman,Marksman,Saano,Claude,1,17:13,Purify,Quantum Charge,4,0,7,13226,10.3,Golden,15,Win
+2/26/2024,Group Stage,2,S2G Esports,Fanny,Assassin,Mage,BEGIN,Lylia,0,17:13,Purify,Lethal Ignition,3,3,2,9364,6,Silver,15,Lose
+2/26/2024,Group Stage,2,S2G Esports,Joy,Assassin,Support/Fighter,Qaro,Kaja,0,17:13,Flicker,Quantum Charge,0,6,5,6807,4.4,Bronze,13,Lose
+2/26/2024,Group Stage,2,S2G Esports,Ruby,Fighter/Tank,Fighter,Lunar,Cici,0,17:13,Flicker,Brave Smite,1,3,0,9029,3.9,Bronze,15,Lose
+2/26/2024,Group Stage,2,S2G Esports,Diggie,Support,Marksman,SIGIBUM,Karrie,0,17:13,Flicker,Brave Smite,1,3,4,11419,6.8,Golden,15,Lose
+2/26/2024,Group Stage,2,S2G Esports,Valentina,Mage,Tank,Kazue,Akai,0,17:13,Retribution,Concussive Blast,0,2,4,8773,6.3,Golden,15,Lose
+2/26/2024,Group Stage,3,S2G Esports,Fanny,Assassin,Fighter/Tank,Lunar,Ruby,0,14:24,Flicker,Brave Smite,0,2,1,7210,4.3,Bronze,13,Lose
+2/26/2024,Group Stage,3,S2G Esports,Joy,Assassin,Marksman,SIGIBUM,Bruno,0,14:24,Purify,Quantum Charge,1,2,1,9232,5.4,Silver,14,Lose
+2/26/2024,Group Stage,3,S2G Esports,Guinevere,Fighter,Fighter,Kazue,Martis,0,14:24,Retribution,Killing Spree,2,1,1,8587,7.1,Golden,15,Lose
+2/26/2024,Group Stage,3,S2G Esports,Yu Zhong,Fighter,Tank,Qaro,Tigreal,0,14:24,Flicker,Quantum Charge,0,4,3,5514,5.3,Silver,11,Lose
+2/26/2024,Group Stage,3,S2G Esports,Aurora,Mage,Mage,BEGIN,Valentina,0,14:24,Flicker,Quantum Charge,0,0,1,6353,5.5,Silver,13,Lose
+2/26/2024,Group Stage,3,Twisted Minds,Diggie,Support,Marksman,Saano,Claude,0,14:24,Purify,Quantum Charge,1,0,5,10492,8.1,Golden,15,Win
+2/26/2024,Group Stage,3,Twisted Minds,Minotaur,Tank/Support,Mage,Cuffin,Vexana,1,14:24,Flicker,Lethal Ignition,3,0,5,10065,8.5,Golden,15,Win
+2/26/2024,Group Stage,3,Twisted Minds,Novaria,Mage,Fighter/Assassin,Maro,Arlott,0,14:24,Flicker,Concussive Blast,1,2,7,7440,6.6,Silver,14,Win
+2/26/2024,Group Stage,3,Twisted Minds,Mathilda,Support/Assassin,Fighter,Mike Sama,X.Borg,0,14:24,Flicker,Brave Smite,1,1,3,9550,6.5,Silver,15,Win
+2/26/2024,Group Stage,3,Twisted Minds,Wanwan,Marksman,Fighter/Tank,7oda,Fredrinn,0,14:24,Retribution,Brave Smite,3,0,6,8402,8.3,Golden,15,Win
+2/26/2024,Group Stage,1,Deus Vult,X.Borg,Fighter,Fighter,Magistor,Guinevere,0,16:56,Retribution,Impure Rage,1,1,7,9158,7.2,Silver,15,Win
+2/26/2024,Group Stage,1,Deus Vult,Thamuz,Fighter,Tank/Support,SAWO,Minotaur,0,16:56,Flicker,Concussive Blast,0,1,11,8000,8.9,Golden,15,Win
+2/26/2024,Group Stage,1,Deus Vult,Claude,Marksman,Marksman,Hiko,Karrie,0,16:56,Flicker,Brave Smite,6,2,4,12837,9.4,Golden,15,Win
+2/26/2024,Group Stage,1,Deus Vult,Arlott,Fighter/Assassin,Mage,Sunset Lover,Nana,1,16:56,Flicker,Lethal Ignition,2,0,11,10624,10.9,Golden,15,Win
+2/26/2024,Group Stage,1,Deus Vult,Mathilda,Support/Assassin,Fighter,Kid Bomba,Cici,0,16:56,Vengeance,Brave Smite,4,2,8,11967,10,Golden,15,Win
+2/26/2024,Group Stage,1,Burmese Ghouls,Diggie,Support,Mage,Niko,Lylia,0,16:56,Purify,Impure Rage,0,2,5,9532,6,Silver,15,Lose
+2/26/2024,Group Stage,1,Burmese Ghouls,Novaria,Mage,Fighter/Tank,Blink,Ruby,0,16:56,Flicker,Brave Smite,1,3,4,6811,5.2,Silver,13,Lose
+2/26/2024,Group Stage,1,Burmese Ghouls,Joy,Assassin,Fighter,Dlar,Martis,0,16:56,Flicker,Concussive Blast,3,4,0,7817,4.6,Bronze,14,Lose
+2/26/2024,Group Stage,1,Burmese Ghouls,Valentina,Mage,Tank,Saxa,Baxia,0,16:56,Retribution,Concussive Blast,0,2,3,7553,4.9,Silver,15,Lose
+2/26/2024,Group Stage,1,Burmese Ghouls,Barats,Tank/Fighter,Marksman,Stitch,Natan,0,16:56,Purify,Quantum Charge,2,2,1,12514,5.6,Silver,15,Lose
+2/26/2024,Group Stage,2,Deus Vult,Kaja,Support/Fighter,Fighter,Magistor,Guinevere,0,22:37,Retribution,Impure Rage,2,4,3,11389,5.3,Silver,15,Win
+2/26/2024,Group Stage,2,Deus Vult,Aurora,Mage,Marksman,Hiko,Claude,0,22:37,Purify,Quantum Charge,1,2,4,17363,6.8,Golden,15,Win
+2/26/2024,Group Stage,2,Deus Vult,Ruby,Fighter/Tank,Tank/Fighter,SAWO,Grock,0,22:37,Flicker,Focusing Mark,0,2,5,11346,5.6,Silver,15,Win
+2/26/2024,Group Stage,2,Deus Vult,Joy,Assassin,Mage,Sunset Lover,Vexana,1,22:37,Flicker,Impure Rage,4,0,1,13678,7.7,Golden,15,Win
+2/26/2024,Group Stage,2,Deus Vult,Arlott,Fighter/Assassin,Fighter,Kid Bomba,Yu Zhong,0,22:37,Petrify,Quantum Charge,0,5,2,12282,3.7,Bronze,15,Win
+2/26/2024,Group Stage,2,Burmese Ghouls,Mathilda,Support/Assassin,Mage,Niko,Valentina,0,22:37,Flicker,Impure Rage,3,1,3,13363,7.2,Silver,15,Lose
+2/26/2024,Group Stage,2,Burmese Ghouls,Novaria,Mage,Marksman,Stitch,Karrie,0,22:37,Purify,Quantum Charge,3,3,3,14167,6.8,Silver,15,Lose
+2/26/2024,Group Stage,2,Burmese Ghouls,Diggie,Support,Assassin,Dlar,Joy,0,22:37,Vengeance,Brave Smite,1,2,5,12438,6.6,Silver,15,Lose
+2/26/2024,Group Stage,2,Burmese Ghouls,Nana,Mage,Fighter,Saxa,Martis,0,22:37,Retribution,Impure Rage,5,1,2,12546,7.6,Golden,15,Lose
+2/26/2024,Group Stage,2,Burmese Ghouls,Lylia,Mage,Tank/Support,Blink,Minotaur,0,22:37,Flicker,Concussive Blast,1,0,10,10827,10,Golden,15,Lose
+2/26/2024,Group Stage,1,HomeBois,Faramis,Support/Mage,Assassin,Chibi,Nolan,0,17:52,Retribution,Lethal Ignition,7,5,10,11395,6.3,Silver,15,Lose
+2/26/2024,Group Stage,1,HomeBois,Cici,Fighter,Tank,Xorn,Tigreal,0,17:52,Flicker,Concussive Blast,1,3,4,6872,5.7,Bronze,14,Lose
+2/26/2024,Group Stage,1,HomeBois,Fanny,Assassin,Fighter,Sepat,Thamuz,0,17:52,Vengeance,Brave Smite,1,4,7,9563,7,Golden,15,Lose
+2/26/2024,Group Stage,1,HomeBois,Martis,Fighter,Mage,Udil,Valentina,0,17:52,Purify,Impure Rage,1,4,6,8648,6.3,Silver,15,Lose
+2/26/2024,Group Stage,1,HomeBois,Akai,Tank,Mage,Nets,Harith,0,17:52,Purify,Impure Rage,2,1,2,12684,6.6,Golden,15,Lose
+2/26/2024,Group Stage,1, AP.Bren ,Terizla,Fighter,Fighter/Assassin,Owgwen,Arlott,0,17:52,Flicker,Brave Smite,4,3,7,10165,7.7,Silver,15,Win
+2/26/2024,Group Stage,1, AP.Bren ,Minotaur,Tank/Support,Marksman,Super Marco,Claude,1,17:52,Purify,Quantum Charge,5,0,8,16579,11.3,Golden,15,Win
+2/26/2024,Group Stage,1, AP.Bren ,Mathilda,Support/Assassin,Mage,Pheww,Novaria,0,17:52,Flicker,Impure Rage,4,4,6,10717,6.5,Silver,15,Win
+2/26/2024,Group Stage,1, AP.Bren ,Joy,Assassin,Fighter,FlapTzy,Phoveus,0,17:52,Purify,Brave Smite,3,2,12,11243,9.3,Golden,15,Win
+2/26/2024,Group Stage,1, AP.Bren ,Guinevere,Fighter,Fighter/Tank,KyleTzy,Fredrinn,0,17:52,Retribution,Concussive Blast,1,3,14,10561,9,Golden,15,Win
+2/26/2024,Group Stage,2, AP.Bren ,Bruno,Marksman,Support/Assassin,Owgwen,Mathilda,1,21:43,Purify,Quantum Charge,2,0,13,11009,10.7,Golden,15,Win
+2/26/2024,Group Stage,2, AP.Bren ,Paquito,Fighter/Assassin,Tank,KyleTzy,Baxia,0,21:43,Retribution,Concussive Blast,2,2,9,10632,7.9,Silver,15,Win
+2/26/2024,Group Stage,2, AP.Bren ,Faramis,Support/Mage,Marksman,Super Marco,Karrie,0,21:43,Purify,Brave Smite,2,4,7,14865,6.9,Silver,15,Win
+2/26/2024,Group Stage,2, AP.Bren ,Arlott,Fighter/Assassin,Fighter,FlapTzy,X.Borg,0,21:43,Flicker,Impure Rage,7,3,6,13591,9.4,Golden,15,Win
+2/26/2024,Group Stage,2, AP.Bren ,Ruby,Fighter/Tank,Mage,Pheww,Nana,0,21:43,Purify,Lethal Ignition,3,0,6,12644,9,Golden,15,Win
+2/26/2024,Group Stage,2,HomeBois,Fanny,Assassin,Mage,Nets,Harith,0,21:43,Purify,Impure Rage,5,3,3,14719,7.6,Golden,15,Lose
+2/26/2024,Group Stage,2,HomeBois,Cici,Fighter,Assassin,Chibi,Helcurt,0,21:43,Retribution,Lethal Ignition,0,5,4,13719,3.9,Bronze,15,Lose
+2/26/2024,Group Stage,2,HomeBois,Nolan,Assassin,Tank/Fighter,Sepat,Barats,0,21:43,Flicker,Brave Smite,1,3,4,10984,5.2,Silver,15,Lose
+2/26/2024,Group Stage,2,HomeBois,Odette,Mage,Mage,Udil,Valentina,0,21:43,Purify,Impure Rage,3,1,4,12695,7.2,Golden,15,Lose
+2/26/2024,Group Stage,2,HomeBois,Vexana,Mage,Fighter,Xorn,Guinevere,0,21:43,Flicker,Impure Rage,0,4,6,9197,4.6,Silver,15,Lose
+2/26/2024,Group Stage,1,Royal Cybersports Club,Claude,Marksman,Mage,Troublemaker,Novaria,1,14:55,Flicker,Impure Rage,6,0,9,11469,11.7,Golden,15,Win
+2/26/2024,Group Stage,1,Royal Cybersports Club,Cici,Fighter,Tank,Oneshot,Akai,0,14:55,Retribution,Concussive Blast,1,1,8,8923,8.3,Golden,15,Win
+2/26/2024,Group Stage,1,Royal Cybersports Club,Nolan,Assassin,Support/Fighter,Kupie,Kaja,0,14:55,Flicker,Quantum Charge,2,1,9,8006,8.4,Golden,14,Win
+2/26/2024,Group Stage,1,Royal Cybersports Club,Baxia,Tank,Marksman,Wizer,Bruno,0,14:55,Flicker,Quantum Charge,3,1,8,11865,9.7,Golden,15,Win
+2/26/2024,Group Stage,1,Royal Cybersports Club,Martis,Fighter,Fighter/Assassin,Castle,Paquito,0,14:55,Flicker,Quantum Charge,3,1,8,11286,9.6,Golden,15,Win
+2/26/2024,Group Stage,1,Niightmare Esports,Ruby,Fighter/Tank,Fighter/Assassin,Jvckkk,Arlott,0,14:55,Flicker,Brave Smite,2,2,1,7073,5.7,Silver,13,Lose
+2/26/2024,Group Stage,1,Niightmare Esports,Diggie,Support,Marksman,Khammy,Karrie,0,14:55,Flicker,Brave Smite,1,2,0,9214,4.2,Bronze,14,Lose
+2/26/2024,Group Stage,1,Niightmare Esports,Mathilda,Support/Assassin,Mage,Sosoul,Lylia,0,14:55,Flicker,Impure Rage,0,3,4,8277,5.5,Silver,14,Lose
+2/26/2024,Group Stage,1,Niightmare Esports,Guinevere,Fighter,Tank/Fighter,2Ez4Lexxy,Barats,0,14:55,Retribution,Brave Smite,1,6,3,8515,5,Silver,15,Lose
+2/26/2024,Group Stage,1,Niightmare Esports,Joy,Assassin,Tank/Support,J4ZBIN,Minotaur,0,14:55,Flicker,Concussive Blast,0,2,4,6001,5.8,Silver,12,Lose
+2/26/2024,Group Stage,2,Niightmare Esports,Karrie,Marksman,Mage,Sosoul,Novaria,0,13:07,Purify,Impure Rage,0,2,3,6078,5.7,Silver,11,Lose
+2/26/2024,Group Stage,2,Niightmare Esports,Minotaur,Tank/Support,Tank,2Ez4Lexxy,Akai,0,13:07,Retribution,Concussive Blast,0,4,1,6180,4,Bronze,13,Lose
+2/26/2024,Group Stage,2,Niightmare Esports,Ruby,Fighter/Tank,Marksman,Khammy,Bruno,0,13:07,Purify,Quantum Charge,1,4,0,6827,4.1,Bronze,12,Lose
+2/26/2024,Group Stage,2,Niightmare Esports,Cici,Fighter,Tank,J4ZBIN,Khufra,0,13:07,Flicker,Concussive Blast,0,5,2,4818,4.2,Bronze,11,Lose
+2/26/2024,Group Stage,2,Niightmare Esports,Arlott,Fighter/Assassin,Tank,Jvckkk,Uranus,0,13:07,Purify,Brave Smite,2,0,0,7636,6.8,Golden,13,Lose
+2/26/2024,Group Stage,2,Royal Cybersports Club,Mathilda,Support/Assassin,Fighter/Assassin,Castle,Paquito,0,13:07,Flicker,Quantum Charge,4,0,3,10520,8.6,Golden,15,Win
+2/26/2024,Group Stage,2,Royal Cybersports Club,Joy,Assassin,Fighter,Kupie,Terizla,0,13:07,Flicker,Brave Smite,3,1,7,7287,8.6,Golden,13,Win
+2/26/2024,Group Stage,2,Royal Cybersports Club,Nolan,Assassin,Fighter,Oneshot,Guinevere,0,13:07,Retribution,Impure Rage,2,2,5,7586,6.4,Silver,14,Win
+2/26/2024,Group Stage,2,Royal Cybersports Club,Yu Zhong,Fighter,Marksman,Wizer,Ixia,1,13:07,Flicker,Quantum Charge,4,0,6,11268,10.6,Golden,15,Win
+2/26/2024,Group Stage,2,Royal Cybersports Club,X.Borg,Fighter,Support/Mage,Troublemaker,Faramis,0,13:07,Purify,Lethal Ignition,2,0,10,9288,10.4,Golden,14,Win
+2/26/2024,Group Stage,1,BURN x FLASH,Fanny,Assassin,Support/Assassin,Mikko,Mathilda,0,13:05,Purify,Quantum Charge,1,1,13,7351,9.5,Golden,13,Win
+2/26/2024,Group Stage,1,BURN x FLASH,Faramis,Support/Mage,Fighter,ATM,Terizla,0,13:05,Flicker,Brave Smite,2,1,6,8458,8.3,Golden,14,Win
+2/26/2024,Group Stage,1,BURN x FLASH,Angela,Support,Marksman,Owl,Ixia,1,13:05,Flicker,Quantum Charge,7,0,5,11365,11.2,Golden,15,Win
+2/26/2024,Group Stage,1,BURN x FLASH,Cici,Fighter,Fighter/Tank,Rindo,Fredrinn,0,13:05,Retribution,Concussive Blast,0,1,9,8312,7.7,Silver,15,Win
+2/26/2024,Group Stage,1,BURN x FLASH,Barats,Tank/Fighter,Mage,KielVJ,Novaria,0,13:05,Purify,Impure Rage,5,0,8,10021,10.6,Golden,15,Win
+2/26/2024,Group Stage,1,KeepBest Gaming,Lancelot,Assassin,Fighter,Tides,Guinevere,0,13:05,Flicker,Brave Smite,0,4,3,5273,4.7,Silver,11,Lose
+2/26/2024,Group Stage,1,KeepBest Gaming,Joy,Assassin,Fighter,Zxuan,Martis,0,13:05,Retribution,Impure Rage,3,3,0,7079,5.7,Silver,13,Lose
+2/26/2024,Group Stage,1,KeepBest Gaming,Claude,Marksman,Mage,LMU,Valentina,0,13:05,Flicker,Impure Rage,0,2,1,6151,4.3,Bronze,12,Lose
+2/26/2024,Group Stage,1,KeepBest Gaming,Joy,Assassin,Marksman,Rainbow,Karrie,0,13:05,Purify,Brave Smite,0,4,2,6939,4.3,Bronze,12,Lose
+2/26/2024,Group Stage,1,KeepBest Gaming,Arlott,Fighter/Assassin,Fighter/Tank,Siyu,Ruby,0,13:05,Flicker,Brave Smite,0,2,0,7036,4.3,Bronze,13,Lose
+2/26/2024,Group Stage,2,KeepBest Gaming,Faramis,Support/Mage,Fighter,Tides,Guinevere,0,17:21,Flicker,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,2,KeepBest Gaming,Fanny,Assassin,Fighter,Siyu,Cici,0,17:21,Vengeance,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,2,KeepBest Gaming,Mathilda,Support/Assassin,Mage,LMU,Novaria,0,17:21,Flicker,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,2,KeepBest Gaming,Barats,Tank/Fighter,Fighter,Zxuan,Martis,0,17:21,Retribution,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,2,KeepBest Gaming,Baxia,Tank,Marksman,Superpaddi,Ixia,0,17:21,Flicker,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/26/2024,Group Stage,2,BURN x FLASH,Diggie,Support,Fighter/Tank,Mikko,Ruby,0,17:21,Flicker,Concussive Blast,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,2,BURN x FLASH,Dyrroth,Fighter,Mage,KielVJ,Valentina,0,17:21,Purify,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,2,BURN x FLASH,Arlott,Fighter/Assassin,Assassin,Rindo,Nolan,1,17:21,Retribution,Lethal Ignition,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,2,BURN x FLASH,Joy,Assassin,Marksman,Owl,Natan,0,17:21,Purify,Weakness Finder,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,2,BURN x FLASH,Claude,Marksman,Fighter/Tank,ATM,Fredrinn,0,17:21,Flicker,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/26/2024,Group Stage,1,Blacklist Intl.,Cici,Fighter,Fighter/Assassin,Edward,Arlott,0,20:12,Flicker,Brave Smite,1,4,8,11189,6.2,Silver,15,Win
+2/26/2024,Group Stage,1,Blacklist Intl.,Diggie,Support,Mage,Yue,Nana,0,20:12,Flicker,Lethal Ignition,7,3,7,11862,9.7,Golden,15,Win
+2/26/2024,Group Stage,1,Blacklist Intl.,Novaria,Mage,Marksman,Oheb,Claude,1,20:12,Purify,Quantum Charge,6,1,7,15857,10.6,Golden,15,Win
+2/26/2024,Group Stage,1,Blacklist Intl.,Joy,Assassin,Tank,Hadji,Tigreal,0,20:12,Flicker,Concussive Blast,2,3,9,9966,7.6,Golden,15,Win
+2/26/2024,Group Stage,1,Blacklist Intl.,Mathilda,Support/Assassin,Tank,Sensui,Akai,0,20:12,Retribution,Concussive Blast,0,3,11,10945,8,Golden,15,Win
+2/26/2024,Group Stage,1,Fire Flux Esports,Faramis,Support/Mage,Tank/Fighter,Alien,Barats,0,20:12,Flicker,Brave Smite,0,4,8,10745,6.6,Silver,15,Lose
+2/26/2024,Group Stage,1,Fire Flux Esports,Guinevere,Fighter,Mage,Tienzy,Lunox,0,20:12,Retribution,Impure Rage,3,6,6,11654,6,Bronze,15,Lose
+2/26/2024,Group Stage,1,Fire Flux Esports,Valentina,Mage,Mage,Rosa,Aurora,0,20:12,Flicker,Impure Rage,4,2,9,11018,9.3,Golden,15,Lose
+2/26/2024,Group Stage,1,Fire Flux Esports,Lylia,Mage,Fighter/Tank,APEX47,Ruby,0,20:12,Flicker,Brave Smite,1,2,8,9610,7.1,Silver,15,Lose
+2/26/2024,Group Stage,1,Fire Flux Esports,Thamuz,Fighter,Marksman,Sunshine,Karrie,0,20:12,Purify,Quantum Charge,6,2,0,15590,7.7,Golden,15,Lose
+2/26/2024,Group Stage,2,Fire Flux Esports,Guinevere,Fighter,Mage,Rosa,Valentina,0,12:02,Flicker,Impure Rage,2,3,1,6321,4.7,Silver,12,Lose
+2/26/2024,Group Stage,2,Fire Flux Esports,Mathilda,Support/Assassin,Fighter,Alien,X.Borg,0,12:02,Flicker,Brave Smite,2,3,2,6267,5.6,Silver,11,Lose
+2/26/2024,Group Stage,2,Fire Flux Esports,Faramis,Support/Mage,Marksman,Sunshine,Karrie,0,12:02,Purify,Quantum Charge,1,3,2,7405,4.8,Silver,12,Lose
+2/26/2024,Group Stage,2,Fire Flux Esports,Claude,Marksman,Fighter,Tienzy,Leomord,0,12:02,Retribution,Quantum Charge,1,3,4,7029,5.7,Silver,13,Lose
+2/26/2024,Group Stage,2,Fire Flux Esports,Diggie,Support,Tank,APEX47,Tigreal,0,12:02,Flicker,Concussive Blast,0,6,3,4698,3.9,Bronze,10,Lose
+2/26/2024,Group Stage,2,Blacklist Intl.,Fanny,Assassin,Support,Hadji,Rafaela,0,12:02,Purify,Impure Rage,1,2,12,6821,8.1,Golden,12,Win
+2/26/2024,Group Stage,2,Blacklist Intl.,Cici,Fighter,Mage,Yue,Nana,0,12:02,Flicker,Lethal Ignition,6,2,7,8221,8.7,Golden,13,Win
+2/26/2024,Group Stage,2,Blacklist Intl.,Arlott,Fighter/Assassin,Fighter/Tank,Edward,Ruby,0,12:02,Flicker,Brave Smite,2,1,8,8459,8.3,Golden,13,Win
+2/26/2024,Group Stage,2,Blacklist Intl.,Joy,Assassin,Marksman,Oheb,Bruno,1,12:02,Purify,Quantum Charge,9,1,4,11796,11,Golden,15,Win
+2/26/2024,Group Stage,2,Blacklist Intl.,Novaria,Mage,Tank/Fighter,Sensui,Barats,0,12:02,Retribution,Brave Smite,0,0,8,8410,8.1,Golden,15,Win
+2/26/2024,Group Stage,1,Team Flash,Arlott,Fighter/Assassin,Assassin,Hadess,Joy,0,13:24,Retribution,Lethal Ignition,0,3,1,8351,4.4,Bronze,14,Lose
+2/26/2024,Group Stage,1,Team Flash,Cici,Fighter,Support,JPL,Angela,0,13:24,Flicker,Focusing Mark,0,3,4,6201,4.5,Bronze,11,Lose
+2/26/2024,Group Stage,1,Team Flash,Faramis,Support/Mage,Marksman,Vanix,Bruno,0,13:24,Purify,Quantum Charge,3,2,2,9670,6.7,Golden,14,Lose
+2/26/2024,Group Stage,1,Team Flash,Kaja,Support/Fighter,Fighter,Diablo,Khaleed,0,13:24,Flicker,Concussive Blast,1,3,1,6378,4.1,Bronze,11,Lose
+2/26/2024,Group Stage,1,Team Flash,Novaria,Mage,Tank/Fighter,KurtTzy,Barats,0,13:24,Flicker,Concussive Blast,1,5,1,7163,4.6,Silver,12,Lose
+2/26/2024,Group Stage,1,ONIC,Karrie,Marksman,Fighter,Butsss,Lapu-Lapu,0,13:24,Flicker,Brave Smite,2,1,5,8922,7,Silver,14,Win
+2/26/2024,Group Stage,1,ONIC,Claude,Marksman,Mage,Alberttt,Harith,0,13:24,Purify,Impure Rage,4,1,8,12010,10.4,Golden,15,Win
+2/26/2024,Group Stage,1,ONIC,Valentina,Mage,Assassin,Kairi,Nolan,1,13:24,Retribution,Lethal Ignition,10,1,4,12262,10.9,Golden,15,Win
+2/26/2024,Group Stage,1,ONIC,Mathilda,Support/Assassin,Mage,Sanz,Nana,0,13:24,Flicker,Lethal Ignition,0,0,9,8192,8.3,Golden,14,Win
+2/26/2024,Group Stage,1,ONIC,Guinevere,Fighter,Fighter/Tank,Kiboy,Ruby,0,13:24,Flicker,Brave Smite,0,2,10,6737,7.4,Silver,13,Win
+2/26/2024,Group Stage,2,ONIC,Claude,Marksman,Assassin,Kairi,Nolan,0,16:59,Retribution,Lethal Ignition,8,1,10,1501,10.9,Golden,15,Win
+2/26/2024,Group Stage,2,ONIC,Valentina,Mage,Tank,Kiboy,Tigreal,0,16:59,Flicker,Brave Smite,0,2,20,9063,10.5,Golden,15,Win
+2/26/2024,Group Stage,2,ONIC,Karrie,Marksman,Mage,Alberttt,Harith,0,16:59,Purify,Impure Rage,6,2,8,13554,9.3,Golden,15,Win
+2/26/2024,Group Stage,2,ONIC,Novaria,Mage,Mage,Sanz,Gord,1,16:59,Flicker,Impure Rage,7,1,12,12125,11.1,Golden,15,Win
+2/26/2024,Group Stage,2,ONIC,Faramis,Support/Mage,Fighter,Butsss,Lapu-Lapu,0,16:59,Flicker,Brave Smite,1,0,14,12094,10.3,Golden,15,Win
+2/26/2024,Group Stage,2,Team Flash,Guinevere,Fighter,Fighter/Tank,JPL,Ruby,0,16:59,Flicker,Concussive Blast,2,6,1,8226,3.5,Bronze,14,Lose
+2/26/2024,Group Stage,2,Team Flash,Mathilda,Support/Assassin,Mage,KurtTzy,Aurora,0,16:59,Flicker,Impure Rage,1,3,3,8896,5,Silver,14,Lose
+2/26/2024,Group Stage,2,Team Flash,Cici,Fighter,Marksman,Vanix,Bruno,0,16:59,Purify,Quantum Charge,2,6,3,11296,4.9,Silver,15,Lose
+2/26/2024,Group Stage,2,Team Flash,Dyrroth,Fighter,Fighter/Assassin,Diablo,Arlott,0,16:59,Flicker,Brave Smite,1,1,2,10604,5.8,Silver,15,Lose
+2/26/2024,Group Stage,2,Team Flash,Lylia,Mage,Tank/Fighter,Hadess,Barats,0,16:59,Retribution,Concussive Blast,0,6,3,9130,4,Bronze,15,Lose
+2/27/2024,Group Stage,1,Team Lilgun,Arlott,Fighter/Assassin,Fighter/Tank,Ethan,Ruby,0,14:24,Flicker,Brave Smite,1,3,6,6460,5.7,Silver,12,Lose
+2/27/2024,Group Stage,1,Team Lilgun,Joy,Assassin,Fighter,Aizn,Yu Zhong,0,14:24,Petrify,Quantum Charge,1,4,2,7186,4.4,Bronze,13,Lose
+2/27/2024,Group Stage,1,Team Lilgun,Cici,Fighter,Marksman,Bebex,Brody,0,14:24,Flicker,Quantum Charge,1,3,4,8621,5.7,Silver,13,Lose
+2/27/2024,Group Stage,1,Team Lilgun,Harley,Assassin/Mage,Fighter,Zxaura,Dyrroth,0,14:24,Retribution,Lethal Ignition,5,4,1,8752,5.7,Silver,14,Lose
+2/27/2024,Group Stage,1,Team Lilgun,Nolan,Assassin,Mage,Forbid,Valentina,0,14:24,Flicker,Impure Rage,0,2,6,6884,5.8,Silver,13,Lose
+2/27/2024,Group Stage,1,Burmese Ghouls,Martis,Fighter,Fighter/Assassin,Niko,Paquito,0,14:24,Flicker,Lethal Ignition,7,1,3,10049,9.2,Golden,14,Win
+2/27/2024,Group Stage,1,Burmese Ghouls,Karrie,Marksman,Support,Blink,Rafaela,0,14:24,Flicker,Quantum Charge,1,2,9,7956,6.7,Silver,14,Win
+2/27/2024,Group Stage,1,Burmese Ghouls,Guinevere,Fighter,Assassin/Fighter,Dlar,Benedetta,0,14:24,Petrify,Quantum Charge,2,2,6,9424,7.2,Silver,15,Win
+2/27/2024,Group Stage,1,Burmese Ghouls,Novaria,Mage,Mage,Stitch,Harith,0,14:24,Purify,Impure Rage,2,3,7,11030,8,Golden,15,Win
+2/27/2024,Group Stage,1,Burmese Ghouls,Mathilda,Support/Assassin,Tank/Fighter,Saxa,Barats,1,14:24,Retribution,Concussive Blast,4,0,7,10308,10,Golden,15,Win
+2/27/2024,Group Stage,2,Burmese Ghouls,Minotaur,Tank/Support,Fighter/Assassin,Niko,Paquito,0,25:15,Flicker,Lethal Ignition,9,7,4,16694,7.1,Golden,15,Win
+2/27/2024,Group Stage,2,Burmese Ghouls,Karrie,Marksman,Fighter,Dlar,Lapu-Lapu,0,25:15,Flicker,Brave Smite,4,3,5,13990,6.9,Golden,15,Win
+2/27/2024,Group Stage,2,Burmese Ghouls,X.Borg,Fighter,Support,Blink,Rafaela,0,25:15,Purify,Quantum Charge,1,2,10,11679,6.8,Golden,15,Win
+2/27/2024,Group Stage,2,Burmese Ghouls,Arlott,Fighter/Assassin,Marksman,Stitch,Natan,1,25:15,Purify,Quantum Charge,6,1,6,21200,10,Golden,15,Win
+2/27/2024,Group Stage,2,Burmese Ghouls,Novaria,Mage,Tank/Fighter,Saxa,Barats,0,25:15,Retribution,Concussive Blast,0,1,14,12947,9.3,Golden,15,Win
+2/27/2024,Group Stage,2,Team Lilgun,Joy,Assassin,Support/Mage,Forbid,Faramis,0,25:15,Flicker,Impure Rage,3,3,4,14918,7,Golden,15,Lose
+2/27/2024,Group Stage,2,Team Lilgun,Mathilda,Support/Assassin,Marksman,Bebex,Bruno,0,25:15,Flicker,Quantum Charge,1,4,3,15585,5.1,Bronze,15,Lose
+2/27/2024,Group Stage,2,Team Lilgun,Cici,Fighter,Fighter,Ethan,Guinevere,0,25:15,Flicker,Concussive Blast,1,4,7,11887,6,Silver,15,Lose
+2/27/2024,Group Stage,2,Team Lilgun,Claude,Marksman,Assassin,Zxaura,Nolan,0,25:15,Retribution,Lethal Ignition,7,4,4,17912,8.9,Golden,15,Lose
+2/27/2024,Group Stage,2,Team Lilgun,Benedetta,Assassin/Fighter,Fighter/Tank,Aizn,Ruby,0,25:15,Flicker,Brave Smite,2,5,4,12554,5.2,Silver,15,Lose
+2/27/2024,Group Stage,1,S2G Esports,Nolan,Assassin,Support/Assassin,Qaro,Mathilda,0,15:26,Purify,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/27/2024,Group Stage,1,S2G Esports,Arlott,Fighter/Assassin,Fighter/Tank,Kazue,Fredrinn,0,15:26,Retribution,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/27/2024,Group Stage,1,S2G Esports,Joy,Assassin,Fighter/Tank,Lunar,Ruby,0,15:26,Flicker,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/27/2024,Group Stage,1,S2G Esports,Akai,Tank,Marksman,SIGIBUM,Natan,0,15:26,Purify,Weakness Finder,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/27/2024,Group Stage,1,S2G Esports,Harith,Mage,Mage,BEGIN,Lylia,0,15:26,Purify,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/27/2024,Group Stage,1,HomeBois,Valentina,Mage,Fighter,Sepat,X.Borg,0,15:26,Flicker,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/27/2024,Group Stage,1,HomeBois,Brody,Marksman,Fighter,Chibi,Guinevere,0,15:26,Retribution,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/27/2024,Group Stage,1,HomeBois,Diggie,Support,Tank,Xorn,Khufra,0,15:26,Flicker,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/27/2024,Group Stage,1,HomeBois,Faramis,Support/Mage,Marksman,Nets,Claude,1,15:26,Purify,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/27/2024,Group Stage,1,HomeBois,Cici,Fighter,Mage,Udil,Novaria,0,15:26,Purify,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/27/2024,Group Stage,2,HomeBois,Lylia,Mage,Support/Assassin,Xorn,Mathilda,0,22:40,Purify,Quantum Charge,0,5,11,10827,7.3,Golden,15,Win
+2/27/2024,Group Stage,2,HomeBois,Valentina,Mage,Marksman,Nets,Karrie,0,22:40,Purify,Quantum Charge,3,2,5,18047,8.1,Golden,15,Win
+2/27/2024,Group Stage,2,HomeBois,Diggie,Support,Mage,Udil,Nana,1,22:40,Flicker,Lethal Ignition,2,0,7,13361,9.5,Golden,15,Win
+2/27/2024,Group Stage,2,HomeBois,Faramis,Support/Mage,Fighter,Sepat,X.Borg,0,22:40,Flicker,Impure Rage,2,3,5,13400,7.7,Golden,15,Win
+2/27/2024,Group Stage,2,HomeBois,Cici,Fighter,Fighter,Chibi,Martis,0,22:40,Retribution,Impure Rage,4,3,2,13010,6.7,Silver,15,Win
+2/27/2024,Group Stage,2,S2G Esports,Nolan,Assassin,Fighter/Assassin,Qaro,Arlott,0,22:40,Flicker,Brave Smite,4,4,5,10327,7.2,Silver,15,Lose
+2/27/2024,Group Stage,2,S2G Esports,Joy,Assassin,Mage,BEGIN,Aurora,0,22:40,Flicker,Impure Rage,1,2,7,11010,6.8,Silver,15,Lose
+2/27/2024,Group Stage,2,S2G Esports,Novaria,Mage,Fighter/Tank,Lunar,Ruby,0,22:40,Flicker,Brave Smite,2,3,6,13281,6.9,Silver,15,Lose
+2/27/2024,Group Stage,2,S2G Esports,Harith,Mage,Fighter,Kazue,Leomord,0,22:40,Retribution,Quantum Charge,5,0,4,15292,9.5,Golden,15,Lose
+2/27/2024,Group Stage,2,S2G Esports,Natan,Marksman,Marksman,SIGIBUM,Claude,0,22:40,Purify,Quantum Charge,1,2,7,16568,8.1,Golden,15,Lose
+2/27/2024,Group Stage,1,Deus Vult,Karrie,Marksman,Fighter,Magistor,Martis,0,16:27,Retribution,Killing Spree,3,4,1,7725,5.3,Silver,14,Lose
+2/27/2024,Group Stage,1,Deus Vult,Bruno,Marksman,Fighter/Tank,Kid Bomba,Ruby,0,16:27,Flicker,Brave Smite,0,4,3,7464,4.8,Silver,14,Lose
+2/27/2024,Group Stage,1,Deus Vult,Fanny,Assassin,Marksman,Hiko,Claude,0,16:27,Purify,Quantum Charge,0,2,1,11387,4.3,Bronze,15,Lose
+2/27/2024,Group Stage,1,Deus Vult,Nolan,Assassin,Fighter,SAWO,Guinevere,0,16:27,Flicker,Concussive Blast,1,2,3,6518,5.8,Silver,13,Lose
+2/27/2024,Group Stage,1,Deus Vult,Joy,Assassin,Mage,Sunset Lover,Novaria,0,16:27,Purify,Impure Rage,0,2,3,7919,5.3,Silver,14,Lose
+2/27/2024,Group Stage,1,RRQ Hoshi,Minotaur,Tank/Support,Support/Assassin,Brusko,Mathilda,0,16:27,Purify,Quantum Charge,0,1,13,8635,9,Golden,15,Win
+2/27/2024,Group Stage,1,RRQ Hoshi,Phoveus,Fighter,Tank/Fighter,Irrad,Barats,0,16:27,Retribution,Concussive Blast,1,1,7,10555,7.9,Silver,15,Win
+2/27/2024,Group Stage,1,RRQ Hoshi,Cici,Fighter,Assassin/Fighter,Banana,Benedetta,0,16:27,Petrify,Quantum Charge,3,1,5,12877,8.3,Golden,15,Win
+2/27/2024,Group Stage,1,RRQ Hoshi,X.Borg,Fighter,Marksman,Skylar,Natan,1,16:27,Purify,Weakness Finder,7,0,3,13850,11,Golden,15,Win
+2/27/2024,Group Stage,1,RRQ Hoshi,Yu Zhong,Fighter,Support/Mage,Octa,Faramis,0,16:27,Purify,Lethal Ignition,3,1,8,9575,9.3,Golden,15,Win
+2/27/2024,Group Stage,2,Deus Vult,Fredrinn,Fighter/Tank,Tank/Support,SAWO,Minotaur,0,16:27,Flicker,Concussive Blast,1,2,11,10490,8,Golden,15,Win
+2/27/2024,Group Stage,2,Deus Vult,Natalia,Assassin,Tank/Fighter,Magistor,Barats,0,21:43,Retribution,Concussive Blast,5,2,5,13825,8.1,Golden,15,Win
+2/27/2024,Group Stage,2,Deus Vult,Benedetta,Assassin/Fighter,Mage,Sunset Lover,Novaria,1,21:43,Purify,Impure Rage,4,0,10,13776,10.7,Golden,15,Win
+2/27/2024,Group Stage,2,Deus Vult,Fanny,Assassin,Marksman,Hiko,Claude,0,21:43,Purify,Quantum Charge,5,2,5,17250,9.2,Golden,15,Win
+2/27/2024,Group Stage,2,Deus Vult,Nolan,Assassin,Fighter/Tank,Kid Bomba,Ruby,0,21:43,Flicker,Brave Smite,1,6,9,11346,6.2,Silver,15,Win
+2/27/2024,Group Stage,2,RRQ Hoshi,Mathilda,Support/Assassin,Fighter,Brusko,Guinevere,0,21:43,Flicker,Brave Smite,2,4,7,10013,6.5,Silver,15,Lose
+2/27/2024,Group Stage,2,RRQ Hoshi,Arlott,Fighter/Assassin,Marksman,Skylar,Karrie,0,21:43,Flicker,Quantum Charge,2,3,3,15893,6.3,Silver,15,Lose
+2/27/2024,Group Stage,2,RRQ Hoshi,Joy,Assassin,Fighter,Banana,Cici,0,21:43,Vengeance,Brave Smite,3,2,3,13129,7.3,Golden,15,Lose
+2/27/2024,Group Stage,2,RRQ Hoshi,Ixia,Marksman,Fighter,Irrad,Dyrroth,0,21:43,Retribution,Concussive Blast,2,5,2,12562,4.6,Bronze,15,Lose
+2/27/2024,Group Stage,2,RRQ Hoshi,Martis,Fighter,Mage,Octa,Lylia,0,21:43,Purify,Impure Rage,3,2,6,12733,8.2,Golden,15,Lose
+2/27/2024,Group Stage,3,RRQ Hoshi,Minotaur,Tank/Support,Assassin,Irrad,Joy,0,30:53,Retribution,Impure Rage,7,4,1,24053,7.1,Golden,15,Win
+2/27/2024,Group Stage,3,RRQ Hoshi,Phoveus,Fighter,Fighter/Tank,Banana,Ruby,0,30:53,Flicker,Brave Smite,0,3,11,14709,6.8,Golden,15,Win
+2/27/2024,Group Stage,3,RRQ Hoshi,Nolan,Assassin,Marksman,Skylar,Layla,1,30:53,Flicker,Quantum Charge,8,3,6,22373,10,Golden,15,Win
+2/27/2024,Group Stage,3,RRQ Hoshi,Phoveus,Fighter,Fighter,Brusko,Chou,0,30:53,Flicker,Concussive Blast,1,10,6,14366,3.5,Bronze,15,Win
+2/27/2024,Group Stage,3,RRQ Hoshi,Barats,Tank/Fighter,Mage,Octa,Novaria,0,30:53,Flicker,Impure Rage,2,2,12,19713,8.5,Golden,15,Win
+2/27/2024,Group Stage,3,Deus Vult,Bruno,Marksman,Fighter,Kid Bomba,Cici,0,30:53,Vengeance,Brave Smite,4,5,6,17090,6.7,Silver,15,Lose
+2/27/2024,Group Stage,3,Deus Vult,Brody,Marksman,Support,SAWO,Angela,0,30:53,Flicker,Focusing Mark,1,2,15,14841,7.7,Silver,15,Lose
+2/27/2024,Group Stage,3,Deus Vult,Benedetta,Assassin/Fighter,Marksman,Hiko,Claude,0,30:53,Purify,Quantum Charge,4,3,10,22762,9.2,Golden,15,Lose
+2/27/2024,Group Stage,3,Deus Vult,Fanny,Assassin,Fighter,Magistor,Martis,0,30:53,Retribution,Quantum Charge,8,3,4,18286,8,Golden,15,Lose
+2/27/2024,Group Stage,3,Deus Vult,Mathilda,Support/Assassin,Support/Mage,Sunset Lover,Faramis,0,30:53,Purify,Lethal Ignition,5,5,9,17950,7.8,Silver,15,Lose
+2/27/2024,Group Stage,1,Niightmare Esports,Paquito,Fighter/Assassin,Fighter,Jvckkk,Cici,0,17:46,Vengeance,Brave Smite,2,2,4,10597,6.9,Golden,15,Lose
+2/27/2024,Group Stage,1,Niightmare Esports,Joy,Assassin,Mage,Sosoul,Valentina,0,17:46,Flicker,Quantum Charge,1,2,2,8871,5,Silver,15,Lose
+2/27/2024,Group Stage,1,Niightmare Esports,X.Borg,Fighter,Tank/Fighter,J4ZBIN,Grock,0,17:46,Flicker,Brave Smite,1,4,1,7316,3.8,Bronze,15,Lose
+2/27/2024,Group Stage,1,Niightmare Esports,Bruno,Marksman,Fighter,2Ez4Lexxy,Dyrroth,0,17:46,Retribution,Lethal Ignition,0,3,6,9151,5.4,Silver,15,Lose
+2/27/2024,Group Stage,1,Niightmare Esports,Brody,Marksman,Marksman,Khammy,Claude,0,17:46,Sprint,Quantum Charge,3,1,2,13874,7.6,Golden,15,Lose
+2/27/2024,Group Stage,1,Fire Flux Esports,Tigreal,Tank,Fighter/Assassin,Alien,Arlott,0,17:46,Flicker,Brave Smite,1,3,3,9130,5.1,Silver,15,Win
+2/27/2024,Group Stage,1,Fire Flux Esports,Akai,Tank,Marksman,Sunshine,Karrie,0,17:46,Flicker,Quantum Charge,6,1,2,12651,9.4,Golden,15,Win
+2/27/2024,Group Stage,1,Fire Flux Esports,Ruby,Fighter/Tank,Mage,Rosa,Novaria,1,17:46,Flicker,Impure Rage,4,0,5,10293,9.8,Golden,15,Win
+2/27/2024,Group Stage,1,Fire Flux Esports,Mathilda,Support/Assassin,Support,APEX47,Estes,0,17:46,Flicker,Impure Rage,0,1,11,8258,8.7,Golden,15,Win
+2/27/2024,Group Stage,1,Fire Flux Esports,Guinevere,Fighter,Tank/Fighter,Tienzy,Barats,0,17:46,Retribution,Concussive Blast,0,2,8,11310,8.4,Golden,15,Win
+2/27/2024,Group Stage,2,Niightmare Esports,Novaria,Mage,Marksman,Khammy,Brody,0,14:43,Flicker,Quantum Charge,1,3,1,9084,5.2,Silver,14,Lose
+2/27/2024,Group Stage,2,Niightmare Esports,Mathilda,Support/Assassin,Fighter,2Ez4Lexxy,Martis,0,14:43,Retribution,Impure Rage,0,2,0,8182,3.9,Bronze,15,Lose
+2/27/2024,Group Stage,2,Niightmare Esports,Ruby,Fighter/Tank,Fighter/Assassin,Jvckkk,Paquito,0,14:43,Flicker,Quantum Charge,1,2,0,7585,5,Silver,13,Lose
+2/27/2024,Group Stage,2,Niightmare Esports,Minotaur,Tank/Support,Tank,J4ZBIN,Franco,0,14:43,Flicker,Concussive Blast,0,4,2,5043,4.6,Silver,12,Lose
+2/27/2024,Group Stage,2,Niightmare Esports,Barats,Tank/Fighter,Mage,Sosoul,Lylia,0,14:43,Flicker,Impure Rage,0,2,2,7092,5.9,Silver,13,Lose
+2/27/2024,Group Stage,2,Fire Flux Esports,Akai,Tank,Marksman,Sunshine,Claude,0,14:43,Sprint,Quantum Charge,2,0,4,13055,8.7,Golden,15,Win
+2/27/2024,Group Stage,2,Fire Flux Esports,Tigreal,Tank,Support/Mage,Rosa,Faramis,0,14:43,Flicker,Lethal Ignition,1,0,8,8552,9.7,Golden,14,Win
+2/27/2024,Group Stage,2,Fire Flux Esports,Joy,Assassin,Mage,APEX47,Vexana,0,14:43,Flicker,Impure Rage,3,2,6,8238,7.8,Silver,14,Win
+2/27/2024,Group Stage,2,Fire Flux Esports,Guinevere,Fighter,Fighter/Assassin,Alien,Arlott,0,14:43,Flicker,Brave Smite,2,0,7,9262,9.2,Golden,15,Win
+2/27/2024,Group Stage,2,Fire Flux Esports,Cici,Fighter,Fighter/Tank,Tienzy,Fredrinn,1,14:43,Retribution,Brave Smite,5,0,6,10095,10.6,Golden,15,Win
+2/27/2024,Group Stage,1,Twisted Minds,Wanwan,Marksman,Fighter/Assassin,Maro,Arlott,0,30:32,Flicker,Concussive Blast,3,5,10,15788,7.4,Silver,15,Lose
+2/27/2024,Group Stage,1,Twisted Minds,Mathilda,Support/Assassin,Marksman,Saano,Karrie,0,30:32,Flicker,Brave Smite,6,0,4,22840,9.4,Golden,15,Lose
+2/27/2024,Group Stage,1,Twisted Minds,Faramis,Support/Mage,Assassin,7oda,Fanny,0,30:32,Flicker,Lethal Ignition,5,6,3,17458,5.2,Silver,15,Lose
+2/27/2024,Group Stage,1,Twisted Minds,Minotaur,Tank/Support,Tank/Fighter,Mike Sama,Barats,0,30:32,Flicker,Concussive Blast,1,6,6,15940,5.1,Bronze,15,Lose
+2/27/2024,Group Stage,1,Twisted Minds,Tigreal,Tank,Mage,Cuffin,Aurora,0,30:32,Flicker,Lethal Ignition,3,1,11,9.8,9.8,Golden,15,Lose
+2/27/2024,Group Stage,1, AP.Bren ,Baxia,Tank,Mage,Super Marco,Harith,0,30:32,Purify,Impure Rage,4,5,5,19551,6.4,Silver,15,Win
+2/27/2024,Group Stage,1, AP.Bren ,Phoveus,Fighter,Assassin,KyleTzy,Nolan,0,30:32,Retribution,Lethal Ignition,3,5,6,21461,5.9,Silver,15,Win
+2/27/2024,Group Stage,1, AP.Bren ,Ruby,Fighter/Tank,Fighter,FlapTzy,Cici,1,30:32,Purify,Brave Smite,4,2,11,18805,10,Golden,15,Win
+2/27/2024,Group Stage,1, AP.Bren ,Joy,Assassin,Mage,Pheww,Novaria,0,30:32,Flicker,Impure Rage,7,4,6,18937,8.3,Golden,15,Win
+2/27/2024,Group Stage,1, AP.Bren ,Guinevere,Fighter,Tank/Fighter,Owgwen,Grock,0,30:32,Flicker,Quantum Charge,0,2,14,15828,8.8,Golden,15,Win
+2/27/2024,Group Stage,2, AP.Bren ,Yu Zhong,Fighter,Fighter,FlapTzy,Cici,1,11:18,Vengeance,Brave Smite,6,0,6,9155,11.8,Golden,14,Win
+2/27/2024,Group Stage,2, AP.Bren ,X.Borg,Fighter,Mage,Pheww,Novaria,0,11:18,Flicker,Impure Rage,3,0,5,8005,8.6,Golden,13,Win
+2/27/2024,Group Stage,2, AP.Bren ,Faramis,Support/Mage,Tank/Fighter,Owgwen,Grock,0,11:18,Flicker,Quantum Charge,0,0,7,6082,7.9,Silver,12,Win
+2/27/2024,Group Stage,2, AP.Bren ,Ruby,Fighter/Tank,Fighter,KyleTzy,Guinevere,0,11:18,Retribution,Impure Rage,2,1,8,8025,8.6,Golden,14,Win
+2/27/2024,Group Stage,2, AP.Bren ,Arlott,Fighter/Assassin,Marksman,Super Marco,Clint,0,11:18,Flicker,Quantum Charge,2,0,7,10637,10.1,Golden,14,Win
+2/27/2024,Group Stage,2,Twisted Minds,Mathilda,Support/Assassin,Mage,Cuffin,Aurora,0,11:18,Flicker,Lethal Ignition,0,1,0,5684,4,Bronze,11,Lose
+2/27/2024,Group Stage,2,Twisted Minds,Wanwan,Marksman,Tank/Support,Maro,Minotaur,0,11:18,Flicker,Concussive Blast,0,5,0,4085,3,Bronze,9,Lose
+2/27/2024,Group Stage,2,Twisted Minds,Joy,Assassin,Assassin,7oda,Fanny,0,11:18,Retribution,Lethal Ignition,0,3,0,4444,3.2,Bronze,10,Lose
+2/27/2024,Group Stage,2,Twisted Minds,Tigreal,Tank,Fighter,Mike Sama,Martis,0,11:18,Flicker,Concussive Blast,0,2,0,5408,4,Bronze,11,Lose
+2/27/2024,Group Stage,2,Twisted Minds,Bruno,Marksman,Marksman,Saano,Claude,0,11:18,Purify,Quantum Charge,1,2,0,5902,5.7,Silver,11,Lose
+2/27/2024,Group Stage,1,KeepBest Gaming,Joy,Assassin,Fighter/Tank,Tides,Ruby,0,19:48,Flicker,Brave Smite,1,3,6,8594,5.4,Silver,15,Lose
+2/27/2024,Group Stage,1,KeepBest Gaming,Arlott,Fighter/Assassin,Fighter/Tank,Zxuan,Fredrinn,0,19:48,Retribution,Brave Smite,0,2,5,8812,5.2,Bronze,15,Lose
+2/27/2024,Group Stage,1,KeepBest Gaming,Guinevere,Fighter,Fighter,Siyu,Lapu-Lapu,0,19:48,Flicker,Brave Smite,2,1,3,12441,6.5,Golden,15,Lose
+2/27/2024,Group Stage,1,KeepBest Gaming,Barats,Tank/Fighter,Marksman,Superpaddi,Karrie,0,19:48,Flicker,Brave Smite,4,3,2,13394,6.4,Silver,15,Lose
+2/27/2024,Group Stage,1,KeepBest Gaming,Baxia,Tank,Support/Mage,LMU,Faramis,0,19:48,Purify,Lethal Ignition,3,3,6,12289,7.2,Golden,15,Lose
+2/27/2024,Group Stage,1,Team Flash,Fanny,Assassin,Mage,KurtTzy,Novaria,1,19:48,Purify,Impure Rage,4,0,7,12897,10.5,Golden,15,Win
+2/27/2024,Group Stage,1,Team Flash,Yu Zhong,Fighter,Fighter,Hadess,Martis,0,19:48,Retribution,Impure Rage,6,3,4,13108,8.5,Golden,15,Win
+2/27/2024,Group Stage,1,Team Flash,Nolan,Assassin,Marksman,Vanix,Ixia,0,19:48,Flicker,Quantum Charge,2,2,7,13209,8.2,Golden,15,Win
+2/27/2024,Group Stage,1,Team Flash,Mathilda,Support/Assassin,Fighter/Assassin,Diablo,Paquito,0,19:48,Sprint,Quantum Charge,0,2,4,15090,6.4,Silver,15,Win
+2/27/2024,Group Stage,1,Team Flash,Cici,Fighter,Fighter,JPL,Chou,0,19:48,Flicker,Concussive Blast,0,3,9,8765,7.1,Silver,15,Win
+2/27/2024,Group Stage,2,Team Flash,Karrie,Marksman,Fighter/Tank,JPL,Ruby,0,15:49,Flicker,Brave Smite,0,1,10,7770,7.3,Silver,14,Win
+2/27/2024,Group Stage,2,Team Flash,Brody,Marksman,Assassin,Hadess,Fanny,0,15:49,Retribution,Lethal Ignition,10,1,1,11918,9,Golden,15,Win
+2/27/2024,Group Stage,2,Team Flash,Guinevere,Fighter,Marksman,Vanix,Ixia,1,15:49,Flicker,Quantum Charge,6,0,4,12966,9.8,Golden,15,Win
+2/27/2024,Group Stage,2,Team Flash,Faramis,Support/Mage,Fighter,Diablo,Yu Zhong,0,15:49,Petrify,Quantum Charge,2,0,8,10203,9.3,Golden,15,Win
+2/27/2024,Group Stage,2,Team Flash,Cici,Fighter,Mage,KurtTzy,Lylia,0,15:49,Flicker,Lethal Ignition,3,1,9,10605,8.4,Golden,15,Win
+2/27/2024,Group Stage,2,KeepBest Gaming,Joy,Assassin,Fighter/Tank,Zxuan,Fredrinn,0,15:49,Retribution,Brave Smite,0,3,3,7473,5.2,Silver,14,Lose
+2/27/2024,Group Stage,2,KeepBest Gaming,Mathilda,Support/Assassin,Fighter,Siyu,Thamuz,0,15:49,Vengeance,Impure Rage,1,4,1,8777,5.3,Silver,14,Lose
+2/27/2024,Group Stage,2,KeepBest Gaming,Nolan,Assassin,Mage,LMU,Novaria,0,15:49,Flicker,Impure Rage,2,3,0,8964,4.6,Silver,14,Lose
+2/27/2024,Group Stage,2,KeepBest Gaming,Paquito,Fighter/Assassin,Marksman,Superpaddi,Claude,0,15:49,Purify,Quantum Charge,0,7,0,9149,3,Bronze,14,Lose
+2/27/2024,Group Stage,2,KeepBest Gaming,Arlott,Fighter/Assassin,Support/Fighter,Tides,Kaja,0,15:49,Flicker,Quantum Charge,0,4,2,6166,4,Bronze,13,Lose
+2/27/2024,Group Stage,1,Royal Cybersports Club,Claude,Marksman,Mage,Troublemaker,Novaria,0,12:15,Flicker,Impure Rage,1,1,1,7362,5.5,Silver,12,Lose
+2/27/2024,Group Stage,1,Royal Cybersports Club,Nolan,Assassin,Tank,Oneshot,Akai,0,12:15,Retribution,Concussive Blast,1,3,2,6030,5.2,Silver,12,Lose
+2/27/2024,Group Stage,1,Royal Cybersports Club,Arlott,Fighter/Assassin,Marksman,Wizer,Bruno,0,12:15,Flicker,Quantum Charge,1,3,1,8084,4.7,Silver,12,Lose
+2/27/2024,Group Stage,1,Royal Cybersports Club,Nana,Mage,Fighter,Kupie,Terizla,0,12:15,Flicker,Brave Smite,1,5,2,5905,4.5,Silver,12,Lose
+2/27/2024,Group Stage,1,Royal Cybersports Club,Faramis,Support/Mage,Fighter,Castle,Cici,0,12:15,Vengeance,Brave Smite,0,3,1,5988,3.8,Bronze,11,Lose
+2/27/2024,Group Stage,1,Blacklist Intl.,Minotaur,Tank/Support,Fighter/Tank,Edward,Ruby,0,12:15,Flicker,Brave Smite,4,1,7,8110,9.4,Golden,13,Win
+2/27/2024,Group Stage,1,Blacklist Intl.,Ixia,Marksman,Mage,Yue,Valentina,0,12:15,Flicker,Impure Rage,3,2,5,7655,7,Silver,13,Win
+2/27/2024,Group Stage,1,Blacklist Intl.,Joy,Assassin,Marksman,Oheb,Karrie,0,12:15,Flicker,Brave Smite,3,0,5,9692,9.1,Golden,14,Win
+2/27/2024,Group Stage,1,Blacklist Intl.,Guinevere,Fighter,Support,Hadji,Rafaela,0,12:15,Flicker,Impure Rage,3,0,10,6936,9.9,Golden,12,Win
+2/27/2024,Group Stage,1,Blacklist Intl.,Mathilda,Support/Assassin,Tank/Fighter,Sensui,Barats,1,20:41,Retribution,Brave Smite,2,1,11,8677,10.1,Golden,15,Win
+2/27/2024,Group Stage,2,Blacklist Intl.,Phoveus,Fighter,Fighter,Sensui,Guinevere,0,20:41,Retribution,Impure Rage,1,2,15,11939,8.9,Golden,15,Win
+2/27/2024,Group Stage,2,Blacklist Intl.,Barats,Tank/Fighter,Fighter,Edward,Cici,0,20:41,Vengeance,Brave Smite,3,1,11,13669,10.1,Golden,15,Win
+2/27/2024,Group Stage,2,Blacklist Intl.,Novaria,Mage,Marksman,Oheb,Beatrix,1,20:41,Flicker,Quantum Charge,11,0,5,16802,12.1,Golden,15,Win
+2/27/2024,Group Stage,2,Blacklist Intl.,Arlott,Fighter/Assassin,Mage,Yue,Aurora,0,20:41,Flicker,Impure Rage,5,0,14,12949,12,Golden,15,Win
+2/27/2024,Group Stage,2,Blacklist Intl.,Faramis,Support/Mage,Support,Hadji,Rafaela,0,20:41,Flicker,Impure Rage,0,1,18,10617,9.7,Golden,15,Win
+2/27/2024,Group Stage,2,Royal Cybersports Club,Joy,Assassin,Mage,Troublemaker,Lylia,0,20:41,Purify,Impure Rage,2,1,1,13864,6.8,Golden,15,Lose
+2/27/2024,Group Stage,2,Royal Cybersports Club,Nolan,Assassin,Marksman,Wizer,Clint,0,20:41,Purify,Quantum Charge,2,3,2,12931,6.1,Golden,15,Lose
+2/27/2024,Group Stage,2,Royal Cybersports Club,Mathilda,Support/Assassin,Fighter/Tank,Kupie,Ruby,0,20:41,Flicker,Brave Smite,0,8,4,8097,3.7,Bronze,15,Lose
+2/27/2024,Group Stage,2,Royal Cybersports Club,Nana,Mage,Tank,Oneshot,Akai,0,20:41,Retribution,Concussive Blast,0,4,4,9079,5.4,Silver,15,Lose
+2/27/2024,Group Stage,2,Royal Cybersports Club,Karrie,Marksman,Fighter/Assassin,Castle,Paquito,0,20:41,Flicker,Quantum Charge,0,4,2,9988,4.2,Bronze,15,Lose
+2/27/2024,Group Stage,1,BURN x FLASH,Fanny,Assassin,Fighter/Assassin,ATM,Arlott,0,23:50,Flicker,Brave Smite,0,7,9,11798,5.2,Bronze,15,Lose
+2/27/2024,Group Stage,1,BURN x FLASH,Nolan,Assassin,Tank,Rindo,Akai,0,23:50,Retribution,Concussive Blast,3,2,12,11772,10,Golden,15,Lose
+2/27/2024,Group Stage,1,BURN x FLASH,Joy,Assassin,Support,Mikko,Diggie,0,23:50,Flicker,Impure Rage,2,1,11,11451,9.4,Silver,15,Lose
+2/27/2024,Group Stage,1,BURN x FLASH,Aurora,Mage,Marksman,Owl,Brody,0,23:50,Flicker,Quantum Charge,8,3,3,19256,9.2,Silver,15,Lose
+2/27/2024,Group Stage,1,BURN x FLASH,Nana,Mage,Mage,KielVJ,Valentina,0,23:50,Flicker,Quantum Charge,3,0,10,15095,10.1,Golden,15,Lose
+2/27/2024,Group Stage,1,ONIC,Claude,Marksman,Fighter/Tank,Kiboy,Ruby,0,23:50,Flicker,Brave Smite,0,6,7,10682,5,Silver,15,Win
+2/27/2024,Group Stage,1,ONIC,Ixia,Marksman,Fighter,Butsss,Lapu-Lapu,0,23:50,Flicker,Brave Smite,3,4,5,12203,6.4,Silver,15,Win
+2/27/2024,Group Stage,1,ONIC,Novaria,Mage,Marksman,Alberttt,Karrie,0,23:50,Flicker,Brave Smite,3,2,6,15618,8.3,Golden,15,Win
+2/27/2024,Group Stage,1,ONIC,Mathilda,Support/Assassin,Mage,Sanz,Vexana,1,23:50,Flicker,Impure Rage,7,2,4,14393,9.4,Golden,15,Win
+2/27/2024,Group Stage,1,ONIC,Guinevere,Fighter,Tank/Fighter,Kairi,Barats,0,23:50,Retribution,Brave Smite,0,2,8,13539,7.2,Golden,15,Win
+2/27/2024,Group Stage,2,ONIC,Karrie,Marksman,Fighter,Butsss,Yu Zhong,0,22:20,Petrify,Quantum Charge,3,2,10,11930,7.6,Silver,15,Win
+2/27/2024,Group Stage,2,ONIC,Diggie,Support,Fighter,Kairi,Guinevere,0,22:20,Retribution,Impure Rage,2,1,14,12732,9.6,Golden,15,Win
+2/27/2024,Group Stage,2,ONIC,Lylia,Mage,Marksman,Alberttt,Claude,1,22:20,Purify,Quantum Charge,8,1,9,17876,11.5,Golden,15,Win
+2/27/2024,Group Stage,2,ONIC,Novaria,Mage,Mage,Sanz,Vexana,0,22:20,Flicker,Lethal Ignition,7,1,9,14809,10,Golden,15,Win
+2/27/2024,Group Stage,2,ONIC,Faramis,Support/Mage,Fighter/Tank,Kiboy,Ruby,0,22:20,Flicker,Brave Smite,2,1,12,11243,8.7,Golden,15,Win
+2/27/2024,Group Stage,2,BURN x FLASH,Nolan,Assassin,Mage,KielVJ,Valentina,0,22:20,Purify,Quantum Charge,2,4,3,13208,5.4,Silver,15,Lose
+2/27/2024,Group Stage,2,BURN x FLASH,Joy,Assassin,Support,Mikko,Rafaela,0,22:20,Purify,Impure Rage,1,3,3,10919,4.8,Silver,15,Lose
+2/27/2024,Group Stage,2,BURN x FLASH,Mathilda,Support/Assassin,Fighter/Assassin,ATM,Arlott,0,22:20,Flicker,Brave Smite,0,6,3,10560,3.6,Bronze,15,Lose
+2/27/2024,Group Stage,2,BURN x FLASH,Cici,Fighter,Marksman,Owl,Natan,0,22:20,Purify,Weakness Finder,3,5,1,17946,5.8,Silver,15,Lose
+2/27/2024,Group Stage,2,BURN x FLASH,Dyrroth,Fighter,Tank/Fighter,Rindo,Barats,0,22:20,Retribution,Brave Smite,0,4,4,11459,5.1,Silver,15,Lose
+2/28/2024,Playoffs Round 1,1,Twisted Minds,Joy,Assassin,Fighter/Tank,Maro,Ruby,0,19:12,Flicker,Concussive Blast,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/28/2024,Playoffs Round 1,1,Twisted Minds,Rafaela,Support,Fighter/Tank,7oda,Fredrinn,0,19:12,Retribution,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/28/2024,Playoffs Round 1,1,Twisted Minds,Mathilda,Support/Assassin,Fighter,Mike Sama,X.Borg,0,19:12,Flicker,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/28/2024,Playoffs Round 1,1,Twisted Minds,Minotaur,Tank/Support,Marksman,Saano,Karrie,0,19:12,Purify,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/28/2024,Playoffs Round 1,1,Twisted Minds,Martis,Fighter,Mage,Cuffin,Novaria,0,19:12,Flicker,Impure Rage,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Lose
+2/28/2024,Playoffs Round 1,1,Burmese Ghouls,Odette,Mage,Fighter,Dlar,Lapu-Lapu,0,19:12,Flicker,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/28/2024,Playoffs Round 1,1,Burmese Ghouls,Aurora,Mage,Mage,Niko,Nana,0,19:12,Flicker,Lethal Ignition,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/28/2024,Playoffs Round 1,1,Burmese Ghouls,Barats,Tank/Fighter,Tank,Saxa,Akai,0,19:12,Retribution,Concussive Blast,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/28/2024,Playoffs Round 1,1,Burmese Ghouls,Arlott,Fighter/Assassin,Marksman,Stitch,Claude,1,19:12,Flicker,Quantum Charge,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/28/2024,Playoffs Round 1,1,Burmese Ghouls,Fanny,Assassin,Fighter,Blink,Guinevere,0,19:12,Flicker,Brave Smite,Nan,Nan,Nan,Nan,Nan,Nan,Nan,Win
+2/28/2024,Playoffs Round 1,2,Burmese Ghouls,X.Borg,Fighter,Mage,Niko,Valentina,0,11:56,Flicker,Impure Rage,6,1,3,8771,8.6,Golden,14,Win
+2/28/2024,Playoffs Round 1,2,Burmese Ghouls,Martis,Fighter,Fighter,Saxa,Guinevere,0,11:56,Retribution,Impure Rage,0,1,7,7517,7.1,Silver,14,Win
+2/28/2024,Playoffs Round 1,2,Burmese Ghouls,Barats,Tank/Fighter,Marksman,Stitch,Bruno,1,11:56,Purify,Quantum Charge,3,0,4,11815,9.6,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,Burmese Ghouls,Arlott,Fighter/Assassin,Tank/Fighter,Blink,Grock,0,11:56,Flicker,Brave Smite,1,0,7,6656,9.1,Golden,12,Win
+2/28/2024,Playoffs Round 1,2,Burmese Ghouls,Fanny,Assassin,Fighter/Assassin,Dlar,Paquito,0,11:56,Flicker,Quantum Charge,3,1,4,8162,7.6,Silver,13,Win
+2/28/2024,Playoffs Round 1,2,Twisted Minds,Rafaela,Support,Marksman,Saano,Claude,0,11:56,Purify,Quantum Charge,0,0,0,7569,5.5,Silver,12,Lose
+2/28/2024,Playoffs Round 1,2,Twisted Minds,Joy,Assassin,Fighter/Tank,7oda,Fredrinn,0,11:56,Retribution,Brave Smite,1,2,2,5228,5.8,Silver,11,Lose
+2/28/2024,Playoffs Round 1,2,Twisted Minds,Mathilda,Support/Assassin,Fighter/Tank,Maro,Ruby,0,11:56,Flicker,Concussive Blast,0,5,3,5057,4.6,Silver,11,Lose
+2/28/2024,Playoffs Round 1,2,Twisted Minds,Minotaur,Tank/Support,Fighter,Mike Sama,Yu Zhong,0,11:56,Petrify,Quantum Charge,1,4,1,5739,4.6,Bronze,11,Lose
+2/28/2024,Playoffs Round 1,2,Twisted Minds,Harith,Mage,Mage,Cuffin,Aurora,0,11:56,Flicker,Lethal Ignition,1,2,1,6413,5,Silver,11,Lose
+2/28/2024,Playoffs Round 1,1,Deus Vult,Nolan,Assassin,Fighter,Kid Bomba,Cici,0,18:09,Vengeance,Brave Smite,4,3,3,11340,7.7,Golden,15,Lose
+2/28/2024,Playoffs Round 1,1,Deus Vult,Harith,Mage,Marksman,Hiko,Brody,0,18:09,Flicker,Quantum Charge,4,4,3,12375,7.3,Golden,15,Lose
+2/28/2024,Playoffs Round 1,1,Deus Vult,Joy,Assassin,Mage,Sunset Lover,Vexana,0,18:09,Flicker,Impure Rage,1,3,5,8934,5.4,Bronze,15,Lose
+2/28/2024,Playoffs Round 1,1,Deus Vult,Valentina,Mage,Tank/Fighter,Magistor,Barats,0,18:09,Retribution,Brave Smite,3,3,4,9977,7.1,Silver,15,Lose
+2/28/2024,Playoffs Round 1,1,Deus Vult,Thamuz,Fighter,Support,SAWO,Diggie,0,18:09,Flicker,Impure Rage,0,6,9,7354,5.8,Silver,14,Lose
+2/28/2024,Playoffs Round 1,1,HomeBois,Odette,Mage,Mage,Udil,Novaria,0,18:09,Flicker,Impure Rage,2,2,6,9507,6.5,Silver,15,Win
+2/28/2024,Playoffs Round 1,1,HomeBois,Baxia,Tank,Marksman,Nets,Claude,1,18:09,Purify,Quantum Charge,2,0,6,15410,9.1,Golden,15,Win
+2/28/2024,Playoffs Round 1,1,HomeBois,Mathilda,Support/Assassin,Fighter,Sepat,Lapu-Lapu,0,18:09,Flicker,Brave Smite,5,5,7,10225,7.6,Golden,15,Win
+2/28/2024,Playoffs Round 1,1,HomeBois,Faramis,Support/Mage,Fighter,Xorn,Guinevere,0,18:09,Flicker,Quantum Charge,3,2,5,8864,6.5,Silver,15,Win
+2/28/2024,Playoffs Round 1,1,HomeBois,Minotaur,Tank/Support,Assassin,Chibi,Lancelot,0,18:09,Retribution,Impure Rage,7,3,2,14212,7.2,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,HomeBois,Ruby,Fighter/Tank,Mage,Udil,Aurora,0,13:20,Flicker,Lethal Ignition,3,2,9,8786,7.6,Golden,14,Win
+2/28/2024,Playoffs Round 1,2,HomeBois,Tigreal,Tank,Assassin/Fighter,Sepat,Benedetta,0,13:20,Petrify,Lethal Ignition,7,3,3,9993,7.6,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,HomeBois,Diggie,Support,Mage,Nets,Harith,1,13:20,Purify,Impure Rage,8,0,6,11882,11.4,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,HomeBois,Faramis,Support/Mage,Fighter,Chibi,Guinevere,0,13:20,Retribution,Impure Rage,4,1,7,9099,8.3,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,HomeBois,Minotaur,Tank/Support,Tank/Marksman,Xorn,Edith,0,13:20,Flicker,Brave Smite,2,2,12,7519,7.8,Golden,13,Win
+2/28/2024,Playoffs Round 1,2,Deus Vult,Mathilda,Support/Assassin,Fighter,Kid Bomba,Cici,0,13:20,Vengeance,Brave Smite,2,5,4,7609,5.4,Silver,13,Lose
+2/28/2024,Playoffs Round 1,2,Deus Vult,Nolan,Assassin,Tank,Magistor,Baxia,0,13:20,Retribution,Concussive Blast,3,5,2,6380,5.2,Silver,12,Lose
+2/28/2024,Playoffs Round 1,2,Deus Vult,Joy,Assassin,Mage,Sunset Lover,Valentina,0,13:20,Purify,Impure Rage,2,5,6,7303,5.9,Silver,13,Lose
+2/28/2024,Playoffs Round 1,2,Deus Vult,Thamuz,Fighter,Support,SAWO,Angela,0,13:20,Purify,Focusing Mark,0,4,6,6240,4.5,Silver,12,Lose
+2/28/2024,Playoffs Round 1,2,Deus Vult,Lapu-Lapu,Fighter,Marksman,Hiko,Bruno,0,13:20,Purify,Quantum Charge,1,5,1,8341,3,Bronze,13,Lose
+2/28/2024,Playoffs Round 1,1,BURN x FLASH,Novaria,Mage,Fighter/Tank,Mikko,Ruby,0,14:09,Flicker,Concussive Blast,0,3,0,5471,3,Bronze,12,Lose
+2/28/2024,Playoffs Round 1,1,BURN x FLASH,Faramis,Support/Mage,Fighter/Tank,Rindo,Fredrinn,0,14:09,Retribution,Concussive Blast,1,0,0,8333,7.6,Golden,15,Lose
+2/28/2024,Playoffs Round 1,1,BURN x FLASH,Barats,Tank/Fighter,Fighter/Assassin,ATM,Arlott,0,14:09,Flicker,Brave Smite,0,5,0,6572,3,Bronze,12,Lose
+2/28/2024,Playoffs Round 1,1,BURN x FLASH,Tigreal,Tank,Marksman,Owl,Bruno,0,14:09,Flicker,Quantum Charge,0,2,1,9283,5.9,Silver,14,Lose
+2/28/2024,Playoffs Round 1,1,BURN x FLASH,Baxia,Tank,Mage,KielVJ,Vexana,0,14:09,Flicker,Impure Rage,0,3,1,7703,5.1,Silver,13,Lose
+2/28/2024,Playoffs Round 1,1,Fire Flux Esports,Natan,Marksman,Mage,Rosa,Nana,0,14:09,Flicker,Lethal Ignition,2,0,4,8340,7.8,Silver,14,Win
+2/28/2024,Playoffs Round 1,1,Fire Flux Esports,Harith,Mage,Marksman,Sunshine,Claude,0,14:09,Purify,Quantum Charge,2,0,1,10497,6.8,Silver,15,Win
+2/28/2024,Playoffs Round 1,1,Fire Flux Esports,Joy,Assassin,Tank/Support,APEX47,Minotaur,0,14:09,Flicker,Quantum Charge,1,0,8,7051,9.4,Golden,13,Win
+2/28/2024,Playoffs Round 1,1,Fire Flux Esports,Mathilda,Support/Assassin,Fighter,Alien,X.Borg,0,14:09,Flicker,Brave Smite,2,1,8,9233,9.2,Golden,14,Win
+2/28/2024,Playoffs Round 1,1,Fire Flux Esports,Guinevere,Fighter,Fighter,Tienzy,Martis,1,14:09,Retribution,Quantum Charge,6,0,4,9903,10.2,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,Fire Flux Esports,Paquito,Fighter/Assassin,Fighter/Tank,APEX47,Ruby,0,14:36,Flicker,Brave Smite,0,3,10,8019,6.9,Silver,14,Win
+2/28/2024,Playoffs Round 1,2,Fire Flux Esports,Diggie,Support,Mage,Rosa,Nana,0,14:36,Flicker,Lethal Ignition,3,0,8,8681,9.4,Golden,14,Win
+2/28/2024,Playoffs Round 1,2,Fire Flux Esports,Guinevere,Fighter,Marksman,Sunshine,Bruno,0,14:36,Purify,Quantum Charge,3,0,4,12184,8.9,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,Fire Flux Esports,Novaria,Mage,Assassin,Tienzy,Nolan,0,14:36,Retribution,Lethal Ignition,8,1,5,12647,9.9,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,Fire Flux Esports,Arlott,Fighter/Assassin,Fighter,Alien,X.Borg,1,14:36,Flicker,Brave Smite,2,0,9,10400,10.3,Golden,15,Win
+2/28/2024,Playoffs Round 1,2,BURN x FLASH,Mathilda,Support/Assassin,Mage,KielVJ,Vexana,0,14:36,Flicker,Impure Rage,0,3,2,6628,4.1,Bronze,12,Lose
+2/28/2024,Playoffs Round 1,2,BURN x FLASH,Faramis,Support/Mage,Support,Mikko,Rafaela,0,14:36,Flicker,Impure Rage,1,5,2,6772,4.1,Bronze,12,Lose
+2/28/2024,Playoffs Round 1,2,BURN x FLASH,Joy,Assassin,Tank/Fighter,Rindo,Barats,0,14:36,Retribution,Brave Smite,0,4,3,7883,5.4,Silver,14,Lose
+2/28/2024,Playoffs Round 1,2,BURN x FLASH,Karrie,Marksman,Fighter,ATM,Phoveus,0,14:36,Flicker,Brave Smite,1,3,1,6918,4.6,Silver,12,Lose
+2/28/2024,Playoffs Round 1,2,BURN x FLASH,Natan,Marksman,Marksman,Owl,Claude,0,14:36,Purify,Quantum Charge,2,1,1,9800,6.3,Golden,14,Lose
+2/29/2024,Playoffs Round 1,1,Royal Cybersports Club,Ruby,Fighter/Tank,Assassin,Oneshot,Joy,0,14:14,Retribution,Lethal Ignition,1,3,0,9020,3.5,Bronze,15,Lose
+2/29/2024,Playoffs Round 1,1,Royal Cybersports Club,Nolan,Assassin,Mage,Troublemaker,Lylia,0,14:14,Sprint,Impure Rage,0,5,2,7798,3.7,Bronze,13,Lose
+2/29/2024,Playoffs Round 1,1,Royal Cybersports Club,Arlott,Fighter/Assassin,Tank,Kupie,Khufra,0,14:14,Flicker,Concussive Blast,0,6,2,6055,3.5,Bronze,12,Lose
+2/29/2024,Playoffs Round 1,1,Royal Cybersports Club,Rafaela,Support,Marksman,Wizer,Bruno,0,14:14,Purify,Quantum Charge,2,2,0,8977,4.9,Silver,13,Lose
+2/29/2024,Playoffs Round 1,1,Royal Cybersports Club,Fanny,Assassin,Fighter,Castle,Terizla,0,14:14,Flicker,Brave Smite,2,1,0,6745,5.7,Silver,12,Lose
+2/29/2024,Playoffs Round 1,1,Team Flash,Claude,Marksman,Fighter,Hadess,Guinevere,0,14:14,Retribution,Impure Rage,2,1,10,8967,8.8,Golden,15,Win
+2/29/2024,Playoffs Round 1,1,Team Flash,Karrie,Marksman,Support/Fighter,JPL,Kaja,0,14:14,Flicker,Brave Smite,0,1,13,7658,8.7,Golden,14,Win
+2/29/2024,Playoffs Round 1,1,Team Flash,Faramis,Support/Mage,Mage,Vanix,Harith,1,14:14,Purify,Impure Rage,12,0,1,12330,12.1,Golden,15,Win
+2/29/2024,Playoffs Round 1,1,Team Flash,Mathilda,Support/Assassin,Assassin/Fighter,Diablo,Benedetta,0,14:14,Petrify,Lethal Ignition,3,3,4,10153,6.3,Silver,15,Win
+2/29/2024,Playoffs Round 1,1,Team Flash,Cici,Fighter,Mage,KurtTzy,Valentina,0,14:14,Purify,Quantum Charge,0,0,14,9728,10.4,Golden,15,Win
+2/29/2024,Playoffs Round 1,2,Team Flash,Clint,Marksman,Fighter/Tank,JPL,Ruby,0,14:32,Flicker,Brave Smite,0,3,1,5579,3.3,Bronze,12,Lose
+2/29/2024,Playoffs Round 1,2,Team Flash,Brody,Marksman,Mage,KurtTzy,Valentina,0,14:32,Purify,Impure Rage,0,2,1,7638,4.2,Bronze,13,Lose
+2/29/2024,Playoffs Round 1,2,Team Flash,Guinevere,Fighter,Marksman,Vanix,Bruno,0,14:32,Purify,Quantum Charge,1,2,1,9921,5.1,Silver,14,Lose
+2/29/2024,Playoffs Round 1,2,Team Flash,Faramis,Support/Mage,Fighter,Diablo,Yu Zhong,0,14:32,Petrify,Quantum Charge,0,4,0,6886,3,Bronze,12,Lose
+2/29/2024,Playoffs Round 1,2,Team Flash,Cici,Fighter,Assassin,Hadess,Fanny,0,14:32,Retribution,Lethal Ignition,4,4,0,9133,6.6,Golden,15,Lose
+2/29/2024,Playoffs Round 1,2,Royal Cybersports Club,Nolan,Assassin,Fighter/Assassin,Castle,Arlott,0,14:32,Flicker,Brave Smite,4,0,3,10237,9,Golden,15,Win
+2/29/2024,Playoffs Round 1,2,Royal Cybersports Club,Mathilda,Support/Assassin,Marksman,Wizer,Karrie,0,14:32,Purify,Brave Smite,4,2,4,11951,8.1,Golden,15,Win
+2/29/2024,Playoffs Round 1,2,Royal Cybersports Club,Joy,Assassin,Mage,Troublemaker,Novaria,1,14:32,Flicker,Impure Rage,2,1,11,10264,9.9,Golden,15,Win
+2/29/2024,Playoffs Round 1,2,Royal Cybersports Club,Harith,Mage,Tank,Kupie,Tigreal,0,14:32,Flicker,Concussive Blast,2,1,7,7516,7.7,Silver,13,Win
+2/29/2024,Playoffs Round 1,2,Royal Cybersports Club,Natalia,Assassin,Fighter/Tank,Oneshot,Fredrinn,0,14:32,Retribution,Concussive Blast,4,1,5,9814,8.3,Golden,15,Win
+2/29/2024,Playoffs Round 1,3,Royal Cybersports Club,Harith,Mage,Fighter,Oneshot,Guinevere,0,17:44,Retribution,Impure Rage,5,4,7,10454,7.7,Silver,15,Win
+2/29/2024,Playoffs Round 1,3,Royal Cybersports Club,Nolan,Assassin,Tank/Fighter,Kupie,Grock,0,17:44,Flicker,Brave Smite,0,2,13,8796,8.3,Golden,15,Win
+2/29/2024,Playoffs Round 1,3,Royal Cybersports Club,Arlott,Fighter/Assassin,Mage,Troublemaker,Novaria,1,17:44,Flicker,Impure Rage,3,0,11,12109,10.6,Golden,15,Win
+2/29/2024,Playoffs Round 1,3,Royal Cybersports Club,Benedetta,Assassin/Fighter,Marksman,Wizer,Bruno,0,17:44,Flicker,Quantum Charge,6,1,5,12294,9.6,Golden,15,Win
+2/29/2024,Playoffs Round 1,3,Royal Cybersports Club,Ruby,Fighter/Tank,Fighter/Assassin,Castle,Paquito,0,17:44,Flicker,Quantum Charge,3,3,6,11624,7.2,Silver,15,Win
+2/29/2024,Playoffs Round 1,3,Team Flash,Clint,Marksman,Mage,KurtTzy,Valentina,0,17:44,Purify,Quantum Charge,3,3,3,9293,5.4,Silver,15,Lose
+2/29/2024,Playoffs Round 1,3,Team Flash,Ixia,Marksman,Support/Fighter,JPL,Kaja,0,17:44,Flicker,Brave Smite,1,5,4,6995,3.9,Bronze,14,Lose
+2/29/2024,Playoffs Round 1,3,Team Flash,Cici,Fighter,Marksman,Vanix,Karrie,0,17:44,Purify,Brave Smite,3,1,5,12323,8.6,Golden,15,Lose
+2/29/2024,Playoffs Round 1,3,Team Flash,Mathilda,Support/Assassin,Fighter,Diablo,Khaleed,0,17:44,Flicker,Concussive Blast,1,2,7,10946,6.6,Golden,15,Lose
+2/29/2024,Playoffs Round 1,3,Team Flash,Joy,Assassin,Tank,Hadess,Akai,0,17:44,Retribution,Concussive Blast,2,6,6,7931,5.3,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,RRQ Hoshi,Barats,Tank/Fighter,Fighter,Irrad,Guinevere,0,11:22,Retribution,Impure Rage,0,3,6,6692,5.4,Silver,13,Win
+2/29/2024,Playoffs Quarterfinals,1,RRQ Hoshi,Natalia,Assassin,Fighter,Banana,Cici,1,11:22,Vengeance,Brave Smite,3,1,6,7145,8.8,Golden,12,Win
+2/29/2024,Playoffs Quarterfinals,1,RRQ Hoshi,Martis,Fighter,Marksman,Skylar,Bruno,0,11:22,Purify,Quantum Charge,3,0,3,10334,8.6,Golden,14,Win
+2/29/2024,Playoffs Quarterfinals,1,RRQ Hoshi,Lapu-Lapu,Fighter,Tank/Support,Brusko,Minotaur,0,11:22,Flicker,Concussive Blast,0,2,4,5129,5.1,Silver,11,Win
+2/29/2024,Playoffs Quarterfinals,1,RRQ Hoshi,Vexana,Mage,Mage,Octa,Nana,0,11:22,Flicker,Lethal Ignition,3,0,5,7240,8,Golden,12,Win
+2/29/2024,Playoffs Quarterfinals,1,Burmese Ghouls,Nolan,Assassin,Support/Mage,Niko,Faramis,0,11:22,Purify,Impure Rage,0,3,5,5641,5.9,Silver,11,Lose
+2/29/2024,Playoffs Quarterfinals,1,Burmese Ghouls,Lancelot,Assassin,Fighter/Tank,Blink,Ruby,0,11:22,Flicker,Brave Smite,0,1,5,4371,5.8,Silver,10,Lose
+2/29/2024,Playoffs Quarterfinals,1,Burmese Ghouls,Mathilda,Support/Assassin,Fighter,Dlar,Yu Zhong,0,11:22,Petrify,Quantum Charge,2,3,3,5055,5.8,Silver,10,Lose
+2/29/2024,Playoffs Quarterfinals,1,Burmese Ghouls,Novaria,Mage,Marksman,Stitch,Claude,0,11:22,Purify,Quantum Charge,4,0,0,7932,7.4,Golden,13,Lose
+2/29/2024,Playoffs Quarterfinals,1,Burmese Ghouls,Joy,Assassin,Tank,Saxa,Akai,0,11:22,Retribution,Concussive Blast,0,2,2,5236,4.9,Bronze,12,Lose
+2/29/2024,Playoffs Quarterfinals,2,Burmese Ghouls,Arlott,Fighter/Assassin,Fighter/Assassin,Dlar,Paquito,0,18:50,Flicker,Quantum Charge,2,4,2,10777,5.3,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,Burmese Ghouls,Lancelot,Assassin,Mage,Niko,Valentina,0,18:50,Flicker,Impure Rage,1,4,5,9156,5.1,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,Burmese Ghouls,Joy,Assassin,Fighter,Blink,Guinevere,0,18:50,Flicker,Brave Smite,1,4,6,8085,5.2,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,Burmese Ghouls,Cici,Fighter,Marksman,Stitch,Bruno,0,18:50,Purify,Quantum Charge,1,3,1,14039,4.6,Bronze,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,Burmese Ghouls,Novaria,Mage,Tank,Saxa,Baxia,0,18:50,Retribution,Concussive Blast,3,3,5,8647,7.1,Golden,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,RRQ Hoshi,Barats,Tank/Fighter,Mage,Octa,Nana,0,18:50,Flicker,Lethal Ignition,5,0,9,10631,10.3,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,RRQ Hoshi,Martis,Fighter,Fighter/Tank,Irrad,Fredrinn,0,18:50,Retribution,Concussive Blast,4,2,7,12651,8.3,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,RRQ Hoshi,Mathilda,Support/Assassin,Marksman,Skylar,Claude,1,18:50,Purify,Quantum Charge,6,0,8,15707,11.5,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,RRQ Hoshi,Rafaela,Support,Tank/Support,Brusko,Minotaur,0,18:50,Flicker,Concussive Blast,1,4,13,9472,8,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,RRQ Hoshi,Grock,Tank/Fighter,Fighter/Tank,Banana,Ruby,0,18:50,Flicker,Brave Smite,2,2,11,11441,8.5,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1, AP.Bren ,Faramis,Support/Mage,Mage,Pheww,Novaria,0,18:23,Flicker,Impure Rage,1,0,9,11325,9.7,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1, AP.Bren ,Arlott,Fighter/Assassin,Fighter,FlapTzy,Phoveus,0,18:23,Purify,Brave Smite,1,2,7,10157,7.8,Silver,15,Win
+2/29/2024,Playoffs Quarterfinals,1, AP.Bren ,Guinevere,Fighter,Fighter/Tank,KyleTzy,Fredrinn,0,18:23,Retribution,Concussive Blast,2,3,8,10276,8.3,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1, AP.Bren ,Yu Zhong,Fighter,Marksman,Super Marco,Brody,1,18:23,Flicker,Quantum Charge,7,0,2,16150,10.7,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1, AP.Bren ,Cici,Fighter,Tank/Support,Owgwen,Minotaur,0,18:23,Flicker,Concussive Blast,0,1,9,9119,8.3,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,HomeBois,X.Borg,Fighter,Mage,Udil,Valentina,0,18:23,Purify,Impure Rage,0,3,6,7973,6,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,HomeBois,Thamuz,Fighter,Fighter/Tank,Xorn,Ruby,0,18:23,Flicker,Brave Smite,0,2,5,7173,5.3,Bronze,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,HomeBois,Johnson,Tank/Support,Fighter,Sepat,Lapu-Lapu,0,18:23,Flicker,Brave Smite,2,5,3,10220,5.7,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,HomeBois,Nolan,Assassin,Fighter,Chibi,Martis,0,18:23,Retribution,Impure Rage,4,1,2,11027,8.1,Golden,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,HomeBois,Mathilda,Support/Assassin,Marksman,Nets,Claude,0,18:23,Purify,Quantum Charge,0,0,3,13964,7,Golden,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,HomeBois,Vexana,Mage,Fighter/Tank,Sepat,Ruby,0,18:44,Flicker,Brave Smite,0,2,1,8658,4,Bronze,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,HomeBois,Wanwan,Marksman,Marksman,Nets,Clint,0,18:44,Flicker,Quantum Charge,1,1,2,12483,6.4,Golden,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,HomeBois,Phoveus,Fighter,Tank,Xorn,Tigreal,0,18:44,Flicker,Concussive Blast,0,5,2,7008,3.8,Bronze,14,Lose
+2/29/2024,Playoffs Quarterfinals,2,HomeBois,Faramis,Support/Mage,Assassin,Chibi,Joy,0,18:44,Retribution,Lethal Ignition,2,2,1,10755,5.9,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,HomeBois,Novaria,Mage,Mage,Udil,Valentina,0,18:44,Flicker,Impure Rage,1,2,3,8246,5.7,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,2, AP.Bren ,Guinevere,Fighter,Tank/Fighter,Owgwen,Hilda,0,18:44,Flicker,Concussive Blast,1,3,6,9566,6.8,Silver,15,Win
+2/29/2024,Playoffs Quarterfinals,2, AP.Bren ,Mathilda,Support/Assassin,Marksman,Super Marco,Brody,1,18:44,Flicker,Quantum Charge,7,0,3,15587,10.8,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2, AP.Bren ,Nolan,Assassin,Fighter,FlapTzy,Cici,0,18:44,Purify,Brave Smite,1,1,7,12767,8.5,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2, AP.Bren ,Karrie,Marksman,Support,Pheww,Angela,0,18:44,Flicker,Brave Smite,2,0,5,10155,7.6,Silver,15,Win
+2/29/2024,Playoffs Quarterfinals,2, AP.Bren ,X.Borg,Fighter,Tank,KyleTzy,Baxia,0,18:44,Retribution,Concussive Blast,1,0,8,10486,9.4,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,Blacklist Intl.,Novaria,Mage,Mage,Yue,Nana,0,16:06,Flicker,Lethal Ignition,4,2,1,8591,6.3,Golden,14,Lose
+2/29/2024,Playoffs Quarterfinals,1,Blacklist Intl.,Joy,Assassin,Tank,Sensui,Akai,0,16:06,Retribution,Concussive Blast,1,2,1,7110,5.4,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,Blacklist Intl.,Nolan,Assassin,Marksman,Oheb,Brody,0,16:06,Flicker,Quantum Charge,1,2,0,11285,4.8,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,Blacklist Intl.,Arlott,Fighter/Assassin,Support,Hadji,Estes,0,16:06,Purify,Quantum Charge,0,3,4,7110,4.8,Bronze,14,Lose
+2/29/2024,Playoffs Quarterfinals,1,Blacklist Intl.,Minotaur,Tank/Support,Fighter/Assassin,Edward,Paquito,0,16:06,Flicker,Quantum Charge,1,3,2,9547,4.8,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,Fire Flux Esports,Karrie,Marksman,Marksman,Sunshine,Claude,1,16:06,Purify,Quantum Charge,2,0,6,12766,9.4,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,Fire Flux Esports,Bruno,Marksman,Fighter,Alien,Cici,0,16:06,Vengeance,Brave Smite,4,4,6,9624,8.2,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,Fire Flux Esports,Faramis,Support/Mage,Fighter/Tank,APEX47,Ruby,0,16:06,Flicker,Brave Smite,0,0,8,7427,8.3,Golden,13,Win
+2/29/2024,Playoffs Quarterfinals,1,Fire Flux Esports,Guinevere,Fighter,Fighter/Tank,Tienzy,Fredrinn,0,16:06,Retribution,Brave Smite,2,1,6,9965,8,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,Fire Flux Esports,Mathilda,Support/Assassin,Mage,Rosa,Valentina,0,16:06,Flicker,Impure Rage,4,2,3,8781,7.3,Silver,15,Win
+2/29/2024,Playoffs Quarterfinals,2,Fire Flux Esports,Fredrinn,Fighter/Tank,Tank/Support,APEX47,Minotaur,0,17:29,Flicker,Quantum Charge,1,0,8,8561,9.8,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,Fire Flux Esports,Barats,Tank/Fighter,Fighter,Tienzy,Guinevere,0,17:29,Retribution,Impure Rage,2,1,5,9975,7.4,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,Fire Flux Esports,Akai,Tank,Mage,Rosa,Lylia,1,17:29,Purify,Impure Rage,2,0,7,9926,10.2,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,Fire Flux Esports,Mathilda,Support/Assassin,Fighter,Alien,Dyrroth,0,17:29,Flicker,Brave Smite,2,1,5,10856,7.8,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,Fire Flux Esports,Faramis,Support/Mage,Marksman,Sunshine,Claude,0,17:29,Purify,Quantum Charge,4,1,1,14716,7.5,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,2,Blacklist Intl.,Novaria,Mage,Fighter/Tank,Edward,Ruby,0,17:29,Flicker,Brave Smite,0,3,1,7806,3.8,Bronze,14,Lose
+2/29/2024,Playoffs Quarterfinals,2,Blacklist Intl.,Joy,Assassin,Tank,Sensui,Baxia,0,17:29,Retribution,Concussive Blast,0,4,1,7524,4.3,Bronze,14,Lose
+2/29/2024,Playoffs Quarterfinals,2,Blacklist Intl.,Cici,Fighter,Mage,Yue,Nana,0,17:29,Flicker,Lethal Ignition,1,0,1,9365,6.6,Golden,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,Blacklist Intl.,X.Borg,Fighter,Support,Hadji,Rafaela,0,17:29,Purify,Impure Rage,1,1,1,7720,5.3,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,2,Blacklist Intl.,Arlott,Fighter/Assassin,Marksman,Oheb,Karrie,0,17:29,Purify,Brave Smite,1,3,1,12130,5.2,Silver,15,Lose
+2/29/2024,Playoffs Quarterfinals,1,ONIC,Faramis,Support/Mage,Fighter,Butsss,Lapu-Lapu,0,19:36,Flicker,Brave Smite,6,0,11,13617,11.1,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,ONIC,Lylia,Mage,Mage,Sanz,Vexana,1,19:36,Purify,Lethal Ignition,4,0,16,12823,12.1,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,ONIC,Novaria,Mage,Fighter,Kairi,Guinevere,0,19:36,Retribution,Impure Rage,5,1,13,12523,10.2,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,ONIC,Diggie,Support,Fighter/Tank,Kiboy,Ruby,0,19:36,Flicker,Brave Smite,1,1,15,9951,8.7,Golden,15,Win
+2/29/2024,Playoffs Quarterfinals,1,ONIC,Minotaur,Tank/Support,Marksman,Alberttt,Wanwan,0,19:36,Inspire,Weakness Finder,8,4,5,14271,8.5,Golden,15,Win
+3/1/2024,Playoffs Quarterfinals,1,Royal Cybersports Club,Cici,Fighter,Fighter/Assassin,Castle,Arlott,0,19:36,Flicker,Brave Smite,0,5,3,10174,3.6,Bronze,14,Lose
+3/1/2024,Playoffs Quarterfinals,1,Royal Cybersports Club,Claude,Marksman,Tank,Kupie,Tigreal,0,19:36,Flicker,Concussive Blast,1,5,4,9084,4.9,Silver,14,Lose
+3/1/2024,Playoffs Quarterfinals,1,Royal Cybersports Club,Nolan,Assassin,Marksman,Wizer,Karrie,0,19:36,Purify,Brave Smite,1,4,4,13069,5.7,Silver,15,Lose
+3/1/2024,Playoffs Quarterfinals,1,Royal Cybersports Club,Joy,Assassin,Fighter,Troublemaker,Phoveus,0,19:36,Purify,Impure Rage,4,7,1,11350,5.3,Silver,15,Lose
+3/1/2024,Playoffs Quarterfinals,1,Royal Cybersports Club,Mathilda,Support/Assassin,Tank,Oneshot,Akai,0,19:36,Retribution,Concussive Blast,0,3,5,10440,5.7,Silver,15,Lose
+3/1/2024,Playoffs Quarterfinals,2,Royal Cybersports Club,Baxia,Tank,Assassin,Oneshot,Nolan,1,19:01,Retribution,Lethal Ignition,6,2,7,15587,10.4,Golden,15,Win
+3/1/2024,Playoffs Quarterfinals,2,Royal Cybersports Club,Barats,Tank/Fighter,Fighter/Assassin,Castle,Arlott,0,19:01,Flicker,Brave Smite,3,4,5,10216,6.5,Silver,15,Win
+3/1/2024,Playoffs Quarterfinals,2,Royal Cybersports Club,Joy,Assassin,Marksman,Wizer,Brody,0,19:01,Flicker,Quantum Charge,1,6,10,11647,7.1,Silver,15,Win
+3/1/2024,Playoffs Quarterfinals,2,Royal Cybersports Club,Cici,Fighter,Support/Fighter,Kupie,Kaja,0,19:01,Flicker,Quantum Charge,2,1,9,9730,8.4,Golden,15,Win
+3/1/2024,Playoffs Quarterfinals,2,Royal Cybersports Club,Ruby,Fighter/Tank,Support/Mage,Troublemaker,Faramis,0,19:01,Flicker,Lethal Ignition,2,5,9,10866,7.7,Golden,15,Win
+3/1/2024,Playoffs Quarterfinals,2,ONIC,Guinevere,Fighter,Marksman,Alberttt,Clint,0,19:01,Flicker,Quantum Charge,7,2,8,15259,10.6,Golden,15,Lose
+3/1/2024,Playoffs Quarterfinals,2,ONIC,Novaria,Mage,Fighter/Tank,Kairi,Fredrinn,0,19:01,Retribution,Concussive Blast,3,2,10,10311,8.6,Golden,15,Lose
+3/1/2024,Playoffs Quarterfinals,2,ONIC,Lylia,Mage,Fighter,Butsss,Lapu-Lapu,0,19:01,Flicker,Brave Smite,2,2,9,10448,7.6,Silver,15,Lose
+3/1/2024,Playoffs Quarterfinals,2,ONIC,Harith,Mage,Support/Assassin,Kiboy,Mathilda,0,19:01,Flicker,Quantum Charge,3,4,12,9755,8.2,Silver,15,Lose
+3/1/2024,Playoffs Quarterfinals,2,ONIC,Minotaur,Tank/Support,Mage,Sanz,Nana,0,19:01,Flicker,Lethal Ignition,3,4,6,10467,6.2,Silver,15,Lose
+3/1/2024,Playoffs Quarterfinals,3,ONIC,Faramis,Support/Mage,Fighter,Butsss,Cici,0,15:16,Vengeance,Brave Smite,4,2,6,10200,8.8,Golden,15,Win
+3/1/2024,Playoffs Quarterfinals,3,ONIC,Novaria,Mage,Mage,Sanz,Odette,0,15:16,Flicker,Lethal Ignition,2,1,9,9689,9,Golden,15,Win
+3/1/2024,Playoffs Quarterfinals,3,ONIC,Lylia,Mage,Fighter,Kairi,Guinevere,0,15:16,Retribution,Impure Rage,1,1,8,9070,7.7,Silver,15,Win
+3/1/2024,Playoffs Quarterfinals,3,ONIC,Ixia,Marksman,Tank/Support,Kiboy,Minotaur,0,15:16,Flicker,Concussive Blast,1,1,11,8039,9.7,Golden,15,Win
+3/1/2024,Playoffs Quarterfinals,3,ONIC,Wanwan,Marksman,Marksman,Alberttt,Karrie,1,15:16,Flicker,Brave Smite,5,0,3,13089,10.6,Golden,15,Win
+3/1/2024,Playoffs Quarterfinals,3,Royal Cybersports Club,Vexana,Mage,Fighter/Assassin,Castle,Arlott,0,15:16,Flicker,Brave Smite,0,1,2,7871,5.3,Silver,15,Lose
+3/1/2024,Playoffs Quarterfinals,3,Royal Cybersports Club,Nana,Mage,Fighter/Tank,Oneshot,Fredrinn,0,15:16,Retribution,Concussive Blast,1,5,3,7546,4.6,Bronze,15,Lose
+3/1/2024,Playoffs Quarterfinals,3,Royal Cybersports Club,Ruby,Fighter/Tank,Support/Assassin,Kupie,Mathilda,0,15:16,Purify,Quantum Charge,1,1,4,7181,6.3,Golden,15,Lose
+3/1/2024,Playoffs Quarterfinals,3,Royal Cybersports Club,Nolan,Assassin,Marksman,Wizer,Clint,0,15:16,Purify,Quantum Charge,1,2,4,9717,7.1,Golden,15,Lose
+3/1/2024,Playoffs Quarterfinals,3,Royal Cybersports Club,Joy,Assassin,Mage,Troublemaker,Valentina,0,15:16,Purify,Impure Rage,2,4,2,8174,5.3,Silver,15,Lose
+3/1/2024,Playoffs Semifinals,1,RRQ Hoshi,Nolan,Assassin,Fighter,Banana,Cici,0,18:54,Vengeance,Brave Smite,0,4,0,9121,3.4,Bronze,15,Lose
+3/1/2024,Playoffs Semifinals,1,RRQ Hoshi,Fredrinn,Fighter/Tank,Mage,Octa,Lylia,0,18:54,Flicker,Impure Rage,0,1,0,9530,4.3,Bronze,15,Lose
+3/1/2024,Playoffs Semifinals,1,RRQ Hoshi,Novaria,Mage,Tank,Brusko,Khufra,0,18:54,Flicker,Concussive Blast,0,3,0,6487,3.4,Bronze,14,Lose
+3/1/2024,Playoffs Semifinals,1,RRQ Hoshi,Yu Zhong,Fighter,Marksman,Skylar,Layla,0,18:54,Flicker,Quantum Charge,0,4,0,10478,3.1,Bronze,15,Lose
+3/1/2024,Playoffs Semifinals,1,RRQ Hoshi,Brody,Marksman,Fighter,Irrad,Dyrroth,0,18:54,Retribution,Concussive Blast,0,5,0,8566,3,Bronze,15,Lose
+3/1/2024,Playoffs Semifinals,1, AP.Bren ,Grock,Tank/Fighter,Fighter/Assassin,FlapTzy,Paquito,0,18:54,Flicker,Quantum Charge,5,0,8,13912,10.9,Golden,15,Win
+3/1/2024,Playoffs Semifinals,1, AP.Bren ,Minotaur,Tank/Support,Fighter/Tank,Owgwen,Ruby,0,18:54,Flicker,Brave Smite,1,0,11,9839,9,Golden,15,Win
+3/1/2024,Playoffs Semifinals,1, AP.Bren ,Guinevere,Fighter,Support/Mage,Pheww,Faramis,0,18:54,Purify,Quantum Charge,4,0,0,13086,11.1,Golden,15,Win
+3/1/2024,Playoffs Semifinals,1, AP.Bren ,Joy,Assassin,Tank,KyleTzy,Baxia,0,18:54,Retribution,Concussive Blast,1,0,10,10150,9.4,Golden,15,Win
+3/1/2024,Playoffs Semifinals,1, AP.Bren ,Mathilda,Support/Assassin,Marksman,Super Marco,Clint,1,18:54,Flicker,Quantum Charge,6,0,7,16068,11.4,Golden,15,Win
+3/1/2024,Playoffs Semifinals,2, AP.Bren ,Lylia,Mage,Support/Mage,Pheww,Faramis,0,13:03,Purify,Quantum Charge,3,2,1,7737,6.5,Golden,13,Lose
+3/1/2024,Playoffs Semifinals,2, AP.Bren ,Nana,Mage,Marksman,Super Marco,Brody,0,13:03,Flicker,Quantum Charge,3,2,1,8632,5.6,Silver,13,Lose
+3/1/2024,Playoffs Semifinals,2, AP.Bren ,Guinevere,Fighter,Tank/Fighter,Owgwen,Grock,0,13:03,Flameshot,Quantum Charge,0,2,3,5366,4.8,Silver,11,Lose
+3/1/2024,Playoffs Semifinals,2, AP.Bren ,Joy,Assassin,Tank,KyleTzy,Baxia,0,13:03,Retribution,Concussive Blast,0,2,4,5881,5.3,Silver,12,Lose
+3/1/2024,Playoffs Semifinals,2, AP.Bren ,Ruby,Fighter/Tank,Fighter,FlapTzy,Lapu-Lapu,0,13:03,Flameshot,Brave Smite,0,4,1,6159,3.3,Bronze,11,Lose
+3/1/2024,Playoffs Semifinals,2,RRQ Hoshi,Mathilda,Support/Assassin,Fighter/Tank,Irrad,Fredrinn,1,13:03,Retribution,Concussive Blast,4,0,6,8553,10.8,Golden,15,Win
+3/1/2024,Playoffs Semifinals,2,RRQ Hoshi,Novaria,Mage,Mage,Octa,Vexana,0,13:03,Flameshot,Impure Rage,4,0,6,7946,9.8,Golden,13,Win
+3/1/2024,Playoffs Semifinals,2,RRQ Hoshi,Nolan,Assassin,Tank/Support,Brusko,Minotaur,0,13:03,Flameshot,Concussive Blast,1,2,8,6364,7.8,Silver,12,Win
+3/1/2024,Playoffs Semifinals,2,RRQ Hoshi,Paquito,Fighter/Assassin,Assassin/Fighter,Banana,Benedetta,0,13:03,Petrify,Quantum Charge,0,3,3,7449,4.5,Bronze,13,Win
+3/1/2024,Playoffs Semifinals,2,RRQ Hoshi,Cici,Fighter,Marksman,Skylar,Natan,0,13:03,Purify,Weakness Finder,3,1,4,10581,8.4,Golden,15,Win
+3/1/2024,Playoffs Semifinals,3, AP.Bren ,Vexana,Mage,Fighter,FlapTzy,X.Borg,1,17:55,Flicker,Impure Rage,7,0,7,13038,11.6,Golden,15,Win
+3/1/2024,Playoffs Semifinals,3, AP.Bren ,Benedetta,Assassin/Fighter,Fighter/Assassin,Owgwen,Arlott,0,17:55,Flicker,Brave Smite,1,3,9,8868,6.7,Silver,15,Win
+3/1/2024,Playoffs Semifinals,3, AP.Bren ,Minotaur,Tank/Support,Mage,Pheww,Nana,0,17:55,Flicker,Lethal Ignition,5,0,6,11010,9,Golden,15,Win
+3/1/2024,Playoffs Semifinals,3, AP.Bren ,Joy,Assassin,Fighter,KyleTzy,Guinevere,0,17:55,Retribution,Impure Rage,2,0,9,9302,8.6,Golden,15,Win
+3/1/2024,Playoffs Semifinals,3, AP.Bren ,Faramis,Support/Mage,Marksman,Super Marco,Beatrix,0,17:55,Flicker,Quantum Charge,5,2,3,14241,7.5,Silver,15,Win
+3/1/2024,Playoffs Semifinals,3,RRQ Hoshi,Mathilda,Support/Assassin,Marksman,Skylar,Natan,0,17:55,Purify,Weakness Finder,1,4,2,10866,4.9,Silver,15,Lose
+3/1/2024,Playoffs Semifinals,3,RRQ Hoshi,Novaria,Mage,Mage,Octa,Lylia,0,17:55,Purify,Impure Rage,0,3,1,8462,3.5,Bronze,14,Lose
+3/1/2024,Playoffs Semifinals,3,RRQ Hoshi,Joy,Assassin,Fighter/Tank,Irrad,Fredrinn,0,17:55,Retribution,Concussive Blast,2,4,2,7989,5.4,Silver,15,Lose
+3/1/2024,Playoffs Semifinals,3,RRQ Hoshi,Clint,Marksman,Fighter,Banana,Cici,0,17:55,Vengeance,Brave Smite,2,3,1,9324,5.3,Silver,15,Lose
+3/1/2024,Playoffs Semifinals,3,RRQ Hoshi,Paquito,Fighter/Assassin,Fighter/Tank,Brusko,Ruby,0,17:55,Flameshot,Brave Smite,0,6,4,6615,3.9,Bronze,13,Lose
+3/2/2024,Playoffs Semifinals,1,Fire Flux Esports,Nolan,Assassin,Mage,Rosa,Nana,0,14:06,Flicker,Lethal Ignition,0,0,1,6537,6.7,Golden,12,Lose
+3/2/2024,Playoffs Semifinals,1,Fire Flux Esports,Vexana,Mage,Tank/Support,APEX47,Minotaur,0,14:06,Flicker,Quantum Charge,0,3,0,5670,3.6,Bronze,12,Lose
+3/2/2024,Playoffs Semifinals,1,Fire Flux Esports,Mathilda,Support/Assassin,Mage,Tienzy,Lunox,0,14:06,Retribution,Impure Rage,1,1,0,7081,5.9,Silver,13,Lose
+3/2/2024,Playoffs Semifinals,1,Fire Flux Esports,Barats,Tank/Fighter,Fighter,Alien,Cici,0,14:06,Vengeance,Brave Smite,0,3,1,7657,6.3,Golden,13,Lose
+3/2/2024,Playoffs Semifinals,1,Fire Flux Esports,Fanny,Assassin,Marksman,Sunshine,Claude,0,14:06,Purify,Quantum Charge,0,1,1,8986,6,Silver,14,Lose
+3/2/2024,Playoffs Semifinals,1,ONIC,Fredrinn,Fighter/Tank,Marksman,Alberttt,Karrie,0,14:06,Flameshot,Brave Smite,1,0,4,11107,7.9,Golden,15,Win
+3/2/2024,Playoffs Semifinals,1,ONIC,X.Borg,Fighter,Mage,Sanz,Lylia,0,14:06,Purify,Lethal Ignition,0,0,5,9522,7.7,Golden,15,Win
+3/2/2024,Playoffs Semifinals,1,ONIC,Joy,Assassin,Fighter/Assassin,Butsss,Arlott,0,14:06,Flicker,Brave Smite,1,0,6,8843,7.5,Golden,14,Win
+3/2/2024,Playoffs Semifinals,1,ONIC,Novaria,Mage,Fighter,Kairi,Martis,1,14:06,Retribution,Impure Rage,6,1,1,10871,8,Golden,15,Win
+3/2/2024,Playoffs Semifinals,1,ONIC,Guinevere,Fighter,Fighter/Tank,Kiboy,Ruby,0,14:06,Flameshot,Brave Smite,0,0,7,7403,7.6,Golden,14,Win
+3/2/2024,Playoffs Semifinals,2,ONIC,Cici,Fighter,Tank/Fighter,Butsss,Barats,0,17:18,Flicker,Concussive Blast,2,2,6,9548,7.2,Golden,15,Win
+3/2/2024,Playoffs Semifinals,2,ONIC,Claude,Marksman,Fighter/Assassin,Kiboy,Arlott,0,17:18,Flicker,Quantum Charge,0,1,8,8090,6.9,Silver,15,Win
+3/2/2024,Playoffs Semifinals,2,ONIC,Hilda,Tank/Fighter,Support/Mage,Sanz,Faramis,0,17:18,Flicker,Lethal Ignition,2,0,8,10099,9.2,Golden,15,Win
+3/2/2024,Playoffs Semifinals,2,ONIC,Novaria,Mage,Assassin,Kairi,Nolan,0,17:18,Retribution,Lethal Ignition,6,4,4,12457,7.4,Golden,15,Win
+3/2/2024,Playoffs Semifinals,2,ONIC,Lylia,Mage,Mage,Alberttt,Harith,1,17:18,Flicker,Impure Rage,6,1,4,12937,9.9,Golden,15,Win
+3/2/2024,Playoffs Semifinals,2,Fire Flux Esports,Guinevere,Fighter,Assassin,Tienzy,Joy,0,17:18,Retribution,Impure Rage,5,3,2,11695,7,Golden,15,Lose
+3/2/2024,Playoffs Semifinals,2,Fire Flux Esports,Ruby,Fighter/Tank,Marksman,Sunshine,Karrie,0,17:18,Flicker,Quantum Charge,0,2,0,10650,3.9,Bronze,15,Lose
+3/2/2024,Playoffs Semifinals,2,Fire Flux Esports,Mathilda,Support/Assassin,Support,APEX47,Angela,0,17:18,Flicker,Impure Rage,0,2,8,8027,5.9,Silver,14,Lose
+3/2/2024,Playoffs Semifinals,2,Fire Flux Esports,Nana,Mage,Fighter,Rosa,Terizla,0,17:18,Flicker,Brave Smite,1,4,4,8307,5.4,Silver,14,Lose
+3/2/2024,Playoffs Semifinals,2,Fire Flux Esports,Vexana,Mage,Fighter,Alien,X.Borg,0,17:18,Flicker,Brave Smite,2,5,2,8306,4.7,Silver,15,Lose
+3/2/2024,Playoffs Third Place,1,RRQ Hoshi,Barats,Tank/Fighter,Tank/Support,Brusko,Minotaur,0,21:30,Flicker,Concussive Blast,0,6,6,9225,4.8,Silver,15,Win
+3/2/2024,Playoffs Third Place,1,RRQ Hoshi,Arlott,Fighter/Assassin,Assassin/Fighter,Banana,Benedetta,1,21:30,Petrify,Quantum Charge,6,0,4,13023,9.9,Golden,15,Win
+3/2/2024,Playoffs Third Place,1,RRQ Hoshi,Angela,Support,Mage,Octa,Aurora,0,21:30,Flicker,Impure Rage,4,2,5,12132,7.5,Golden,15,Win
+3/2/2024,Playoffs Third Place,1,RRQ Hoshi,Bruno,Marksman,Tank,Irrad,Baxia,0,21:30,Retribution,Concussive Blast,2,4,8,11519,7.3,Golden,15,Win
+3/2/2024,Playoffs Third Place,1,RRQ Hoshi,Nolan,Assassin,Marksman,Skylar,Claude,0,21:30,Flicker,Quantum Charge,2,0,5,17810,9.2,Golden,15,Win
+3/2/2024,Playoffs Third Place,1,Fire Flux Esports,Vexana,Mage,Mage,Rosa,Novaria,0,21:30,Flameshot,Impure Rage,1,3,6,11479,6.1,Silver,15,Lose
+3/2/2024,Playoffs Third Place,1,Fire Flux Esports,Valentina,Mage,Fighter/Tank,Tienzy,Fredrinn,0,21:30,Retribution,Concussive Blast,1,4,6,11251,6.1,Silver,15,Lose
+3/2/2024,Playoffs Third Place,1,Fire Flux Esports,Natan,Marksman,Fighter/Tank,APEX47,Ruby,0,21:30,Flicker,Brave Smite,3,4,9,10348,8.1,Golden,15,Lose
+3/2/2024,Playoffs Third Place,1,Fire Flux Esports,Mathilda,Support/Assassin,Marksman,Sunshine,Karrie,0,21:30,Purify,Quantum Charge,1,2,1,15217,4.9,Bronze,15,Lose
+3/2/2024,Playoffs Third Place,1,Fire Flux Esports,Guinevere,Fighter,Fighter,Alien,Cici,0,21:30,Vengeance,Brave Smite,6,1,6,14439,11.7,Golden,15,Lose
+3/2/2024,Playoffs Third Place,2,Fire Flux Esports,Harith,Mage,Fighter,Tienzy,Guinevere,0,15:21,Retribution,Impure Rage,4,3,6,9665,7.5,Golden,15,Win
+3/2/2024,Playoffs Third Place,2,Fire Flux Esports,Natan,Marksman,Mage,Rosa,Lylia,0,15:21,Purify,Impure Rage,5,1,8,10540,9.2,Golden,15,Win
+3/2/2024,Playoffs Third Place,2,Fire Flux Esports,Joy,Assassin,Fighter,Alien,Terizla,0,15:21,Flicker,Brave Smite,0,2,8,9245,6.6,Silver,15,Win
+3/2/2024,Playoffs Third Place,2,Fire Flux Esports,Mathilda,Support/Assassin,Tank/Fighter,APEX47,Hilda,0,15:21,Flicker,Concussive Blast,2,3,7,7499,7.2,Golden,14,Win
+3/2/2024,Playoffs Third Place,2,Fire Flux Esports,Novaria,Mage,Marksman,Sunshine,Claude,1,15:21,Purify,Quantum Charge,6,0,6,13300,10.8,Golden,15,Win
+3/2/2024,Playoffs Third Place,2,RRQ Hoshi,Barats,Tank/Fighter,Tank/Support,Brusko,Minotaur,0,15:21,Flicker,Concussive Blast,0,4,7,6374,5.4,Silver,12,Lose
+3/2/2024,Playoffs Third Place,2,RRQ Hoshi,Arlott,Fighter/Assassin,Fighter,Banana,Cici,0,15:21,Vengeance,Brave Smite,2,4,1,7387,4.5,Bronze,13,Lose
+3/2/2024,Playoffs Third Place,2,RRQ Hoshi,Ruby,Fighter/Tank,Mage,Octa,Nana,0,15:21,Flicker,Lethal Ignition,3,1,3,7066,6.5,Golden,13,Lose
+3/2/2024,Playoffs Third Place,2,RRQ Hoshi,Tigreal,Tank,Marksman,Skylar,Bruno,0,15:21,Purify,Quantum Charge,2,5,3,9437,4.6,Silver,14,Lose
+3/2/2024,Playoffs Third Place,2,RRQ Hoshi,Khufra,Tank,Assassin,Irrad,Fanny,0,15:21,Retribution,Lethal Ignition,2,3,2,8960,5,Silver,15,Lose
+3/2/2024,Playoffs Third Place,3,Fire Flux Esports,Vexana,Mage,Tank,APEX47,Tigreal,0,27:55,Flicker,Concussive Blast,1,5,17,13795,8.5,Golden,15,Win
+3/2/2024,Playoffs Third Place,3,Fire Flux Esports,Nana,Mage,Marksman,Sunshine,Karrie,1,27:55,Flicker,Quantum Charge,8,1,8,19096,10.4,Golden,15,Win
+3/2/2024,Playoffs Third Place,3,Fire Flux Esports,Joy,Assassin,Mage,Rosa,Aurora,0,27:55,Flicker,Impure Rage,5,3,16,15481,10,Golden,15,Win
+3/2/2024,Playoffs Third Place,3,Fire Flux Esports,Claude,Marksman,Fighter/Tank,Alien,Ruby,0,27:55,Flicker,Brave Smite,3,2,11,16709,8.7,Golden,15,Win
+3/2/2024,Playoffs Third Place,3,Fire Flux Esports,Novaria,Mage,Assassin,Tienzy,Nolan,0,27:55,Retribution,Lethal Ignition,8,2,4,19479,7.8,Silver,15,Win
+3/2/2024,Playoffs Third Place,3,RRQ Hoshi,Barats,Tank/Fighter,Marksman,Skylar,Natan,0,27:55,Purify,Weakness Finder,6,2,2,25104,8.3,Golden,15,Lose
+3/2/2024,Playoffs Third Place,3,RRQ Hoshi,Guinevere,Fighter,Fighter,Octa,Phoveus,0,27:55,Purify,Brave Smite,1,4,7,13313,6.6,Golden,15,Lose
+3/2/2024,Playoffs Third Place,3,RRQ Hoshi,Mathilda,Support/Assassin,Assassin/Fighter,Banana,Benedetta,0,27:55,Petrify,Quantum Charge,1,5,4,15784,4.4,Bronze,15,Lose
+3/2/2024,Playoffs Third Place,3,RRQ Hoshi,Lylia,Mage,Fighter/Assassin,Brusko,Arlott,0,27:55,Flicker,Brave Smite,1,7,5,11934,4.5,Bronze,15,Lose
+3/2/2024,Playoffs Third Place,3,RRQ Hoshi,Valentina,Mage,Fighter,Irrad,Martis,0,27:55,Retribution,Impure Rage,4,7,5,14080,5.9,Silver,15,Lose
+3/2/2024,Playoffs Grand Final,1, AP.Bren ,Joy,Assassin,Assassin,KyleTzy,Nolan,0,14:07,Retribution,Lethal Ignition,6,0,4,12602,10.3,Golden,15,Win
+3/2/2024,Playoffs Grand Final,1, AP.Bren ,Ruby,Fighter/Tank,Tank/Support,Owgwen,Minotaur,0,14:07,Flicker,Concussive Blast,0,2,8,6644,7.2,Silver,13,Win
+3/2/2024,Playoffs Grand Final,1, AP.Bren ,Guinevere,Fighter,Tank,FlapTzy,Gloo,1,14:07,Flicker,Brave Smite,1,0,9,9037,10.4,Golden,14,Win
+3/2/2024,Playoffs Grand Final,1, AP.Bren ,Brody,Marksman,Mage,Pheww,Vexana,0,14:07,Flicker,Impure Rage,2,0,7,9475,9.1,Golden,15,Win
+3/2/2024,Playoffs Grand Final,1, AP.Bren ,Clint,Marksman,Mage,Super Marco,Harith,0,14:07,Purify,Impure Rage,3,0,3,11553,9.1,Golden,15,Win
+3/2/2024,Playoffs Grand Final,1,ONIC,Thamuz,Fighter,Marksman,Alberttt,Claude,0,14:07,Purify,Quantum Charge,0,1,2,9346,6.2,Golden,14,Lose
+3/2/2024,Playoffs Grand Final,1,ONIC,X.Borg,Fighter,Fighter/Tank,Kairi,Fredrinn,0,14:07,Retribution,Concussive Blast,1,2,1,6329,6,Silver,13,Lose
+3/2/2024,Playoffs Grand Final,1,ONIC,Phoveus,Fighter,Fighter,Butsss,Cici,0,14:07,Vengeance,Brave Smite,0,4,1,6098,4,Bronze,12,Lose
+3/2/2024,Playoffs Grand Final,1,ONIC,Faramis,Support/Mage,Mage,Sanz,Novaria,0,14:07,Flicker,Impure Rage,1,1,1,7487,6.4,Golden,13,Lose
+3/2/2024,Playoffs Grand Final,1,ONIC,Mathilda,Support/Assassin,Fighter/Assassin,Kiboy,Arlott,0,14:07,Flicker,Brave Smite,0,4,1,5056,3.5,Bronze,11,Lose
+3/2/2024,Playoffs Grand Final,2,ONIC,Fredrinn,Fighter/Tank,Fighter,Butsss,Lapu-Lapu,0,22:16,Flicker,Brave Smite,2,6,6,12033,6.4,Silver,15,Lose
+3/2/2024,Playoffs Grand Final,2,ONIC,X.Borg,Fighter,Fighter/Tank,Kiboy,Ruby,0,22:16,Flicker,Brave Smite,1,4,7,10575,6.4,Silver,15,Lose
+3/2/2024,Playoffs Grand Final,2,ONIC,Mathilda,Support/Assassin,Fighter,Kairi,Guinevere,0,22:16,Retribution,Impure Rage,0,3,8,10637,6.6,Silver,15,Lose
+3/2/2024,Playoffs Grand Final,2,ONIC,Minotaur,Tank/Support,Mage,Sanz,Nana,0,22:16,Flicker,Lethal Ignition,5,2,3,13785,7.9,Golden,15,Lose
+3/2/2024,Playoffs Grand Final,2,ONIC,Faramis,Support/Mage,Marksman,Alberttt,Karrie,0,22:16,Flicker,Brave Smite,3,2,4,15525,7.3,Golden,15,Lose
+3/2/2024,Playoffs Grand Final,2, AP.Bren ,Joy,Assassin,Marksman,Super Marco,Claude,1,22:16,Purify,Quantum Charge,7,1,8,18297,11.4,Golden,15,Win
+3/2/2024,Playoffs Grand Final,2, AP.Bren ,Nolan,Assassin,Fighter,FlapTzy,Cici,0,22:16,Purify,Brave Smite,2,3,11,13654,8.7,Golden,15,Win
+3/2/2024,Playoffs Grand Final,2, AP.Bren ,Novaria,Mage,Mage,Pheww,Vexana,0,22:16,Purify,Impure Rage,5,3,8,13561,8.4,Golden,15,Win
+3/2/2024,Playoffs Grand Final,2, AP.Bren ,Clint,Marksman,Tank,KyleTzy,Akai,0,22:16,Retribution,Concussive Blast,1,1,11,11849,8.7,Golden,15,Win
+3/2/2024,Playoffs Grand Final,2, AP.Bren ,Bruno,Marksman,Fighter/Assassin,Owgwen,Arlott,0,22:16,Flicker,Brave Smite,2,3,12,11754,8.4,Golden,15,Win
+3/2/2024,Playoffs Grand Final,3, AP.Bren ,Joy,Assassin,Support/Mage,Pheww,Faramis,0,20:17,Purify,Quantum Charge,3,2,5,10890,7.3,Golden,15,Lose
+3/2/2024,Playoffs Grand Final,3, AP.Bren ,Vexana,Mage,Fighter,FlapTzy,Cici,0,20:17,Purify,Brave Smite,3,3,6,11727,7.9,Golden,15,Lose
+3/2/2024,Playoffs Grand Final,3, AP.Bren ,Novaria,Mage,Support,Owgwen,Angela,0,20:17,Flicker,Impure Rage,1,2,6,9572,6,Silver,15,Lose
+3/2/2024,Playoffs Grand Final,3, AP.Bren ,X.Borg,Fighter,Marksman,Super Marco,Karrie,0,20:17,Flicker,Quantum Charge,2,1,4,13960,6.8,Silver,15,Lose
+3/2/2024,Playoffs Grand Final,3, AP.Bren ,Lapu-Lapu,Fighter,Tank,KyleTzy,Baxia,0,20:17,Retribution,Concussive Blast,0,3,8,9471,6.1,Silver,15,Lose
+3/2/2024,Playoffs Grand Final,3,ONIC,Clint,Marksman,Marksman,Alberttt,Brody,0,20:17,Flicker,Quantum Charge,4,2,4,13886,8.5,Golden,15,Win
+3/2/2024,Playoffs Grand Final,3,ONIC,Grock,Tank/Fighter,Tank/Support,Kiboy,Minotaur,0,20:17,Flicker,Concussive Blast,0,3,10,9794,7.9,Golden,15,Win
+3/2/2024,Playoffs Grand Final,3,ONIC,Guinevere,Fighter,Fighter/Assassin,Butsss,Arlott,0,20:17,Flicker,Brave Smite,2,2,6,10947,7.2,Silver,15,Win
+3/2/2024,Playoffs Grand Final,3,ONIC,Nolan,Assassin,Fighter/Tank,Kairi,Fredrinn,0,20:17,Retribution,Concussive Blast,2,1,6,11420,8.2,Golden,15,Win
+3/2/2024,Playoffs Grand Final,3,ONIC,Mathilda,Support/Assassin,Mage,Sanz,Lylia,1,20:17,Sprint,Lethal Ignition,3,1,7,14765,9.7,Golden,15,Win
+3/2/2024,Playoffs Grand Final,4,ONIC,Clint,Marksman,Fighter,Butsss,Lapu-Lapu,0,17:16,Flicker,Brave Smite,0,2,0,8306,3.7,Bronze,15,Lose
+3/2/2024,Playoffs Grand Final,4,ONIC,Claude,Marksman,Mage,Sanz,Lylia,0,17:16,Purify,Lethal Ignition,0,5,1,8270,4.4,Bronze,14,Lose
+3/2/2024,Playoffs Grand Final,4,ONIC,Faramis,Support/Mage,Support/Assassin,Kiboy,Mathilda,0,17:16,Purify,Quantum Charge,0,1,1,6566,5.5,Silver,14,Lose
+3/2/2024,Playoffs Grand Final,4,ONIC,Vexana,Mage,Tank/Fighter,Kairi,Barats,0,17:16,Retribution,Quantum Charge,0,2,1,8801,6.1,Golden,15,Lose
+3/2/2024,Playoffs Grand Final,4,ONIC,Minotaur,Tank/Support,Marksman,Alberttt,Wanwan,0,17:16,Inspire,Weakness Finder,1,1,0,10522,6,Silver,15,Lose
+3/2/2024,Playoffs Grand Final,4, AP.Bren ,Joy,Assassin,Fighter,KyleTzy,Guinevere,0,17:16,Retribution,Impure Rage,1,1,3,9368,6.2,Silver,15,Win
+3/2/2024,Playoffs Grand Final,4, AP.Bren ,Nolan,Assassin,Fighter/Tank,Owgwen,Ruby,0,17:16,Flicker,Brave Smite,0,0,8,8681,8.4,Golden,15,Win
+3/2/2024,Playoffs Grand Final,4, AP.Bren ,Novaria,Mage,Mage,Pheww,Nana,0,17:16,Flicker,Lethal Ignition,1,0,6,9700,8.5,Golden,15,Win
+3/2/2024,Playoffs Grand Final,4, AP.Bren ,X.Borg,Fighter,Marksman,Super Marco,Beatrix,1,17:16,Flicker,Quantum Charge,7,0,3,14562,11.7,Golden,15,Win
+3/2/2024,Playoffs Grand Final,4, AP.Bren ,Arlott,Fighter/Assassin,Fighter,FlapTzy,Cici,0,17:16,Vengeance,Brave Smite,2,0,5,11610,9.2,Golden,15,Win
