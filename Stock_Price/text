@@ -1,0 +1,30 @@
+# Displaying between open and closing price
+open_close_price <- data %>%
+                    mutate(open = as.numeric(open),
+                           close = as.numeric(close))
+                    group_by(ticker, open, close)
+                    summarise(avg_price = mean(open+close, na.rm=TRUE))
+                    
+                    
+                    
+lag() function is used to shift values within a vector or column by a specified number of positions. Specifically, it returns the value of the vector or column lagged (shifted backward) by the specified number of positions.
+
+Negative daily return (-): This means that the closing price of the stock today is lower than the closing price yesterday. It indicates a decrease in the price of the stock from the previous day to the current day. This could suggest that investors are selling the stock, resulting in a decline in its price.
+
+Positive daily return (+): Conversely, a positive daily return indicates that the closing price of the stock today is higher than the closing price yesterday. It suggests an increase in the price of the stock from the previous day to the current day. This could imply that investors are buying the stock, leading to an increase in its price.
+
+Daily Return=(Today’s Price/ Yesterday’s Price)−1
+We use the lag() function to retrieve the previous day's price for each stock.
+
+Within each group, we calculate the cumulative return over the respective time period using the 
+- prod() function, which calculates the product of (1 + daily_return) for each day within the period and subtracts 1 to get the total return over the period.
+
+
+Volatility is a statistical measure that quantifies the degree of variation of a financial instrument's price over time. It reflects the degree of fluctuation or dispersion of returns for a given security or market index. In financial markets, volatility is often used as a measure of risk, with higher volatility indicating greater uncertainty and potential for large price swings.
+
+
+Here's a general guideline:
+
+Low Volatility: When the volatility of a financial instrument is relatively low, it suggests that the prices of the instrument have been relatively stable or have experienced small fluctuations over the given period. Low volatility is often associated with a lower level of risk and uncertainty. For example, if the historical volatility of a stock is around 10%, it might be considered relatively low
+
+High Volatility: Conversely, high volatility indicates that the prices of the financial instrument have experienced significant fluctuations over the given period. High volatility is often associated with a higher level of risk and uncertainty. For example, if the historical volatility of a stock is around 30%, it might be considered relatively high.
