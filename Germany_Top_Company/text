@@ -1,0 +1,11 @@
+EXTERN
+# Calculate current ratio
+data$current_ratio <- data$assets / data$liabilities
+
+ Calculate quick ratio
+# Quick assets = current assets - inventory
+data$quick_assets <- data$assets - data$inventory
+data$quick_ratio <- data$quick_assets / data$liabilities
+
+# Calculate debt-to-equity ratio
+data$debt_to_equity <- data$liabilities / data$equity
